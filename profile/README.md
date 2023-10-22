@@ -2,7 +2,7 @@
 
 ![img](./profile/HBFlogo.png)
 
-Prepare yourself for an insightful exploration into the captivating realm of the brain and consciousness. These fascinating subjects have long captivated the minds of scientists and deep thinkers. With a purposeful stride, we embark on a journey that delves into the intricacies of this profound connection, approaching the topic with a level of formality, befitting its significance.
+Prepare yourself for an insightful exploration into the captivating realm of the brain and consciousness. These fascinating subjects have long occupied the minds of scientists and deep thinkers. With a purposeful stride, we embark on a journey that delves into the intricacies of this profound connection, approaching the topic with a level of formality, befitting its significance.
 
 Within the vast landscape of scientific inquiry, the intricacies of how the brain gives rise to consciousness remain a profound mystery. Esteemed scientists passionately pursue a deeper understanding of this enigmatic relationship, employing rigorous methodologies and diligent inquiry to illuminate this extraordinary phenomenon.
 
