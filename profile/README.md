@@ -15,7 +15,7 @@ Given its focus, the HBF initiative at the University of Bergen represents a sig
 
 **Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.**  
 
-And **Artistic Intelligence** such as [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
+And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
 <!--
 
