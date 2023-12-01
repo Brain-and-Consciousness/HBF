@@ -15,9 +15,12 @@ Given its focus, the HBF initiative at the University of Bergen represents a sig
 
 **Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.**  
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/878118010?h=28f185442d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+And **Artistic Intelligence** such as [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
 <!--
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/878118010?h=28f185442d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 The intricacies of how the brain gives rise to consciousness remain a profound mystery within the vast landscape of scientific inquiry. Esteemed scientists passionately pursue a deeper understanding of this enigmatic relationship, employing rigorous methodologies and diligent inquiry to illuminate this extraordinary phenomenon.
 
 A prevailing theory posits that consciousness emerges from the intricacies of neural connectivity within the brain. According to this line of thought, consciousness is not confined to a singular region but emerges from the orchestrated interplay of neural activity across diverse areas. This emergent property of the brain, built upon the remarkable network of neurons, enables the rich tapestry of conscious experiences.
