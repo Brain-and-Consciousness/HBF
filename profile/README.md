@@ -13,7 +13,7 @@ The initiative engages in various activities such as organizing seminars, discus
 Given its focus, the HBF initiative at the University of Bergen represents a significant effort in the ongoing quest to unravel the mysteries of consciousness and how it manifests in both humans and potentially in artificial entities.
 
 
-- **Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.  
+**Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.**  
 
 <!--
 The intricacies of how the brain gives rise to consciousness remain a profound mystery within the vast landscape of scientific inquiry. Esteemed scientists passionately pursue a deeper understanding of this enigmatic relationship, employing rigorous methodologies and diligent inquiry to illuminate this extraordinary phenomenon.
