@@ -4,7 +4,7 @@
 
 Prepare yourself for an insightful exploration into the captivating realm of the brain and consciousness. These fascinating subjects have long occupied the minds of scientists and deep thinkers. With a purposeful stride, we embark on a journey that delves into the intricacies of this profound connection, approaching the topic with a level of formality befitting its significance.
 
-The **HBF** - Brain and Consciousness initiative at the University of Bergen is a research interest group focused on exploring various aspects of the brain and consciousness. This initiative encompasses a wide range of topics, including neuroscientific research, technological advancements in AI, philosophical theories, ethical considerations, and educational challenges related to understanding consciousness in both biological and artificial systems.
+The **HBF** - Brain and Consciousness initiative at the University of Bergen is a research interest group focused on exploring various aspects of the brain and consciousness. This initiative encompasses a wide range of topics, including neuroscientific research, technological advancements in AI, philosophical theories, animal decision-making, ethical considerations, artistic intelligence, and educational challenges related to understanding consciousness in both biological and artificial systems.
 
 The HBF initiative involves multidisciplinary collaboration among experts in fields such as neuroscience, psychology, computer science, philosophy, art, and other relevant disciplines. This type of research is crucial for advancing our understanding of consciousness, which remains one of the most intriguing and complex subjects in both science and philosophy.
 
