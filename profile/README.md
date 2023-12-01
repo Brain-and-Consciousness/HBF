@@ -15,6 +15,8 @@ Given its focus, the HBF initiative at the University of Bergen represents a sig
 
 **Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.**  
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/878118010?h=28f185442d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 <!--
 The intricacies of how the brain gives rise to consciousness remain a profound mystery within the vast landscape of scientific inquiry. Esteemed scientists passionately pursue a deeper understanding of this enigmatic relationship, employing rigorous methodologies and diligent inquiry to illuminate this extraordinary phenomenon.
 
