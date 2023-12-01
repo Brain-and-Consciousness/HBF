@@ -2,8 +2,20 @@
 
 ![img](./profile/HBFlogo.png)
 
-Prepare yourself for an insightful exploration into the captivating realm of the brain and consciousness. These fascinating subjects have long occupied the minds of scientists and deep thinkers. With a purposeful stride, we embark on a journey that delves into the intricacies of this profound connection, approaching the topic with a level of formality, befitting its significance.
+Prepare yourself for an insightful exploration into the captivating realm of the brain and consciousness. These fascinating subjects have long occupied the minds of scientists and deep thinkers. With a purposeful stride, we embark on a journey that delves into the intricacies of this profound connection, approaching the topic with a level of formality befitting its significance.
 
+The **HBF** - Brain and Consciousness initiative at the University of Bergen is a research interest group focused on exploring various aspects of the brain and consciousness. This initiative encompasses a wide range of topics, including neuroscientific research, technological advancements in AI, philosophical theories, ethical considerations, and educational challenges related to understanding consciousness in both biological and artificial systems.
+
+The HBF initiative involves multidisciplinary collaboration among experts in fields such as neuroscience, psychology, computer science, philosophy, art, and other relevant disciplines. This type of research is crucial for advancing our understanding of consciousness, which remains one of the most intriguing and complex subjects in both science and philosophy.
+
+The initiative engages in various activities such as organizing seminars, discussions, research projects, and disseminating talks and presentations on GitHub and elsewhere to foster a deeper understanding of the brain and consciousness in the era of AGI. These activities would also encourage critical thinking and open-minded exploration of this challenging domain.
+
+Given its focus, the HBF initiative at the University of Bergen represents a significant effort in the ongoing quest to unravel the mysteries of consciousness and how it manifests in both humans and potentially in artificial entities.
+
+
+- **Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.  
+
+<!--
 The intricacies of how the brain gives rise to consciousness remain a profound mystery within the vast landscape of scientific inquiry. Esteemed scientists passionately pursue a deeper understanding of this enigmatic relationship, employing rigorous methodologies and diligent inquiry to illuminate this extraordinary phenomenon.
 
 A prevailing theory posits that consciousness emerges from the intricacies of neural connectivity within the brain. According to this line of thought, consciousness is not confined to a singular region but emerges from the orchestrated interplay of neural activity across diverse areas. This emergent property of the brain, built upon the remarkable network of neurons, enables the rich tapestry of conscious experiences.
@@ -16,7 +28,7 @@ Throughout this scholarly journey, we maintain the utmost respect for the comple
 
 In this spirit, let us march forward, equipped with the tools of scientific inquiry, deep contemplation, and the pursuit of knowledge. With each step, we unveil a greater understanding of the extraordinary relationship between the brain and consciousness, forever shaping our perception of the human experience.
 
-
+-->
 
 <!--
 
