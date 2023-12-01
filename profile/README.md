@@ -13,7 +13,7 @@ The initiative engages in various activities such as organizing seminars, discus
 Given its focus, the HBF initiative at the University of Bergen represents a significant effort in the ongoing quest to unravel the mysteries of consciousness and how it manifests in both humans and potentially in artificial entities.
 
 
-**Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.**  
+**Please test, play, and learn with our GPT: "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.**  (you will need to have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus))
 
 And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
