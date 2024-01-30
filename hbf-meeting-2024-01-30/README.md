@@ -11,7 +11,7 @@ Second by a social gathering at 1900 is generously hosted at the home of Astri a
  
 Please sign up for one or all of these events here: [skjemaker](https://skjemaker.app.uib.no/view.php?id=16396169)
  
-Also, we are honored to have the host of the [Darwin Day 2024](https://darwin.uib.no), Prof. Eva Jablonka, to give a talk at HBF about robots and consciousness on February 13 (see attached [pdf](./Darwindagen_i_Bergen.pdf) for more information) – More on this soon!
+Also, we are honored to have the host of the [Darwin Day 2024](https://darwin.uib.no), Prof. [Eva Jablonka](https://en.wikipedia.org/wiki/Eva_Jablonka), to give a talk at HBF about robots and consciousness on February 13 (see attached [pdf](./Darwindagen_i_Bergen.pdf) for more information) – More on this soon!
 
 
 ### Talk by Magnus Bendixen Englund
