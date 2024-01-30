@@ -1,5 +1,7 @@
 ## HBF-meeting-20240130
 
+**Subject: HBF season opening // Social gathering**
+
 Happy new year everyone!
  
 It is with great pleasure we announce that HBF will have its first events of the semester 30th of January. Two things will be happening:
@@ -9,7 +11,7 @@ Second by a social gathering at 1900 generously hosted at the home of Astri and 
  
 Please sign up for one or all of these events here: https://skjemaker.app.uib.no/view.php?id=16396169
  
-Also, of we are honored to have the host of the Darwin to talk to HBF about about robots and consciousness at February 13 (see attached pdf for more information) – More on this soon!
+Also, of we are honored to have the host of the [Darwin talk](https://darwin.uib.no) to HBF about robots and consciousness at February 13 (see attached [pdf](./Darwindagen_i_Bergen.pdf) for more information) – More on this soon!
 
 
 ### Talk by Magnus Bendixen Englund
