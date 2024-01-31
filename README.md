@@ -17,7 +17,7 @@ Given its focus, the HBF initiative at the University of Bergen represents a sig
 
 And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
-### Meetings
+## Meetings
 
 **Location**: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17  (unless otherwise stated)<br>
 **Time**: 15:00 - 16:00 (unless otherwise stated)<br>
