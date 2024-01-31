@@ -17,6 +17,15 @@ Given its focus, the HBF initiative at the University of Bergen represents a sig
 
 And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
+### Meetings
+
+**Location**: Borgaskaret (3rd floor), Alrek Helseklynge, Årstadveien 17  (unless otherwise stated)<br>
+**Time**: 15:00 - 16:00 (unless otherwise stated)<br>
+
+| Meeting  | Presenter | Title   | Slides | More Info |
+|----------|-----------|---------|--------|-----------|
+| 2024-01-30 | Magnus Bendixen Englund     | _The psycological origins of the Hard Problem: How our consciousness is shaping the neuroscience of consciousness_ | [Link](https://docs.google.com/presentation/d/14a_wJUqHPWZh_hNJ0BrnfpZIiNZIVPB_jhttmKMyszQ/pub?start=false&loop=false&delayms=60000) | [Here](https://github.com/Brain-and-Consciousness/HBF/tree/main/hbf-meeting-2024-01-30/README.md) |
+
 <!--
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/878118010?h=28f185442d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
