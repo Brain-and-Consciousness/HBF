@@ -22,15 +22,14 @@ Psychological individual differences (such as cognitive styles) lead to differen
 
  #### Slides
 
-<!--
+
  <a href="https://docs.google.com/presentation/d/14a_wJUqHPWZh_hNJ0BrnfpZIiNZIVPB_jhttmKMyszQ/pub?start=false&loop=false&delayms=60000"><img src="magnus-thesis-slide-20240130.png"></a>
 
--->
-
+<!--
 <img src="magnus-thesis-slide-20240130.png" alt="Slide Thesis" width="600"/>
 
 <a href="https://docs.google.com/presentation/d/14a_wJUqHPWZh_hNJ0BrnfpZIiNZIVPB_jhttmKMyszQ" target="_blank">View the full presentation</a>
-
+-->
 
 ----------
 
