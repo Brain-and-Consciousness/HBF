@@ -25,11 +25,8 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | 2024-01-30 | Magnus Bendixen Englund     | _The psycological origins of the Hard Problem: How our consciousness is shaping the neuroscience of consciousness_ | [Link](https://docs.google.com/presentation/d/14a_wJUqHPWZh_hNJ0BrnfpZIiNZIVPB_jhttmKMyszQ/pub?start=false&loop=false&delayms=60000) | [Here](https://github.com/Brain-and-Consciousness/HBF/tree/main/hbf-meeting-2024-01-30/README.md) |
-
-**2023**
-
-| Meeting  | Presenter | Title   | Slides | More Info |
-|----------|-----------|---------|--------|-----------|
+|              |           |         |        |          |
+| **2023:**    |           |         |        |          |
 | ...      | ...       | ...     | ...    | ...       |
 | 2023-02-23 | Arvid Lundervold     | _Representation learning and Consciousness with a view to generative AI_ | [Link](https://docs.google.com/presentation/d/e/2PACX-1vRvtQnpOaO8L26ywjpNo4cJOSuFQiqCUq92xLqb_VP1TjDCLGa9u3b1ewMzwI6FyzPRuVJKHkddr2Vt/pub?start=false&loop=false&delayms=3000) | [Here](https://github.com/arvidl/consciousness-explore) |
 | ...      | ...       | ...     | ...    | ...       |
