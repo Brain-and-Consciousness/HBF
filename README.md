@@ -31,8 +31,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | ...      | ...       | ...     | ...    | ...       |
-| 2023-02-23 | Arvid Lundervold     | _Representation learning and Consciousness with a view to generative AI_
-_ | [Link](https://docs.google.com/presentation/d/e/2PACX-1vRvtQnpOaO8L26ywjpNo4cJOSuFQiqCUq92xLqb_VP1TjDCLGa9u3b1ewMzwI6FyzPRuVJKHkddr2Vt/pub?start=false&loop=false&delayms=3000) | [Link](https://github.com/arvidl/consciousness-explore) |
+| 2023-02-23 | Arvid Lundervold     | _Representation learning and Consciousness with a view to generative AI_ | [Link](https://docs.google.com/presentation/d/e/2PACX-1vRvtQnpOaO8L26ywjpNo4cJOSuFQiqCUq92xLqb_VP1TjDCLGa9u3b1ewMzwI6FyzPRuVJKHkddr2Vt/pub?start=false&loop=false&delayms=3000) | [Here](https://github.com/arvidl/consciousness-explore) |
 | ...      | ...       | ...     | ...    | ...       |
 
 
