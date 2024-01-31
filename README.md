@@ -19,7 +19,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 
 ### Meetings
 
-**Location**: Borgaskaret (3rd floor), Alrek Helseklynge, Årstadveien 17  (unless otherwise stated)<br>
+**Location**: Borgaskaret (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17  (unless otherwise stated)<br>
 **Time**: 15:00 - 16:00 (unless otherwise stated)<br>
 
 | Meeting  | Presenter | Title   | Slides | More Info |
