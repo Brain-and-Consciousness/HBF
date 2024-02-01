@@ -26,7 +26,8 @@ Psychological individual differences (such as cognitive styles) lead to differen
 
 [[pdf](./assets/HBF-Magnus-Slides-20240130.pdf)]
 
-I made an **overview of the papers in consciousness science that I found most illuminating** when I wrote my thesis. Made with [Litmaps](https://www.litmaps.com) [[link]()]
+I made an **overview of the papers in consciousness science that I found most illuminating** when I wrote my thesis.<br>
+Made with [Litmaps](https://www.litmaps.com) [[link]()]
 
 <!--
 https://app.litmaps.com/shared/99ffe6fb-4144-4a75-86d5-60905c11a9e0
