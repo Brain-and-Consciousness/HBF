@@ -26,7 +26,7 @@ Psychological individual differences (such as cognitive styles) lead to differen
 
 Slides: [[pdf](./assets/HBF-Magnus-Slides-20240130.pdf)]  Thesis: [[BORA](https://bora.uib.no/bora-xmlui/handle/11250/3069995)] [[pdf](https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3069995/master-thesis.pdf?sequence=1&isAllowed=y)]  Supervision: Prof. [Mark C. Price](https://www.uib.no/en/persons/Mark.C..Price)
 
-I made an **overview of the papers in consciousness science that I found most illuminating** when I wrote my thesis.<br> [[link](https://app.litmaps.com/shared/99ffe6fb-4144-4a75-86d5-60905c11a9e0)] (the graph is made with [Litmaps](https://www.litmaps.com); similar functionality is also provided by [Connected Papers](https://www.connectedpapers.com))
+I made an **overview of the papers in consciousness science that I found most illuminating** when I wrote my thesis.<br> [[link](https://app.litmaps.com/shared/99ffe6fb-4144-4a75-86d5-60905c11a9e0)] (the graph is made with [Litmaps](https://www.litmaps.com); similar functionality is also provided by [Connected Papers](https://www.connectedpapers.com); see also [here](https://liu.cwp.libguides.com/c.php?g=225325&p=4966525), [here](https://github.com/Mat-Mueller/PyblioNet),  and [here](https://github.com/pybliometrics-dev/pybliometrics))
 
 <!--
 https://app.litmaps.com/shared/99ffe6fb-4144-4a75-86d5-60905c11a9e0
