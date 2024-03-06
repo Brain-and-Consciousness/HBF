@@ -26,7 +26,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 |----------|-----------|---------|--------|-----------|
 | **2024:**    |     |     |      |        |
 | 2024-03-xx | David Jhave Johnston      | _Hallucinations are (almost) all you Need_  | [Link] | [Here](https://en.wikipedia.org/wiki/David_Jhave_Johnston)  and https://glia.ca |
-| 2024-02-13 | Eva Jablonka     | _Embodied AI (Robots) and Consciousness_  | [Link] | [Here](https://en.wikipedia.org/wiki/Eva_Jablonka)  and |
+| 2024-02-13 | Eva Jablonka     | _Embodied AI (Robots) and Consciousness_  | [Link] | [Here](https://en.wikipedia.org/wiki/Eva_Jablonka)  and her latest [books](https://www.amazon.com/Books-Eva-Jablonka/s?rh=n%3A283155%2Cp_27%3AEva+Jablonka)|
 | 2024-01-30 | Magnus Bendixen Englund     | _The psycological origins of the Hard Problem: How our consciousness is shaping the neuroscience of consciousness_ | [Link](https://docs.google.com/presentation/d/14a_wJUqHPWZh_hNJ0BrnfpZIiNZIVPB_jhttmKMyszQ/pub?start=false&loop=false&delayms=60000) | [Here](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-01-30/README.md#talk-by-magnus-bendixen-englund) |
 |              |           |         |        |          |
 | **2023:**    |           |         |        |          |
@@ -69,4 +69,4 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 20240206
+last updated: 20240306
