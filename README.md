@@ -24,7 +24,8 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
-| **2024:**    |           |         |        |          |
+| **2024:**    |  David Jhave Johnston   |   Hallucinations are (almost) all you Need   | [Link]     |  https://www.glia.ca        |
+| 2024-03-xx | Eva Jablonka     | _Embodied AI (Robots) and Consciousness_  | [Link] | [Here](https://en.wikipedia.org/wiki/Eva_Jablonka)  and her recent [book(s)](https://mitpress.mit.edu/author/eva-jablonka-1072)|
 | 2024-02-13 | Eva Jablonka     | _Embodied AI (Robots) and Consciousness_  | [Link] | [Here](https://en.wikipedia.org/wiki/Eva_Jablonka)  and her recent [book(s)](https://mitpress.mit.edu/author/eva-jablonka-1072)|
 | 2024-01-30 | Magnus Bendixen Englund     | _The psycological origins of the Hard Problem: How our consciousness is shaping the neuroscience of consciousness_ | [Link](https://docs.google.com/presentation/d/14a_wJUqHPWZh_hNJ0BrnfpZIiNZIVPB_jhttmKMyszQ/pub?start=false&loop=false&delayms=60000) | [Here](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-01-30/README.md#talk-by-magnus-bendixen-englund) |
 |              |           |         |        |          |
