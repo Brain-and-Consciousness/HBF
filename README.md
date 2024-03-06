@@ -70,3 +70,13 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 -->
 
 last updated: 20240306
+
+<!--
+
+David Jhave Johnston is a digital-poet writing in emergent domains: A.I., 3D, VR, and code. Author-programmer of the multimedia human + A.I. writing art-project ReRites (Anteism Books, 2019), the theoretical-history Aesthetic Animism: Digital Poetry's Ontological Implications (MIT Press, 2016), and many online multimedia literary-art explorations at www.glia.ca. He is currently employed as an Ai-narrative researcher at the UiB Centre for Digital Narrative from August 2023-26 on a team investigating Extending Digital Narrative. 
+
+Fundamental research in science is being transformed by a practice predominantly associated with the arts: namely hallucinations. 
+
+This rapid [artist] overview of key scientific AI examples (that covers a year loosely defined as starting with the release of GPT-4 on March 14th, 2023) is framed by the hypothesis that fundamental research in science is being transformed by a practice predominantly associated with the arts: namely hallucinations. Hallucinations in people are conventionally associated with mental illness, drugs, and/or genius. Hallucinations in AI (mostly in large language models) have been critiqued as net-negatives: contributing to disinformation, bias, post-truth, deep-fakes, collapse of democracy, copyright theft, etc… Yet at the same time, AI hallucinations (of proteins/crystals/algorithms/circuits etc) pruned down to the feasible, are contributing to a revolutionary acceleration of scientific discoveries in numeric-algorithmic optimizations, AI hardware accelerators, reward mechanism design, non-invasive brain sensors, drug discovery, sustainable deep-tech materials, autonomous lab robotics, neuromorphic organoid computing, and mathematical reasoning. In both art and science, hallucinations are almost enough: without the pruning down to the plausible, there is just a sprawl of potentiality.
+
+-->
