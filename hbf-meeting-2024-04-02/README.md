@@ -2,7 +2,7 @@
 
 ### David Jhave Johnston: _Hallucinations are (almost) all you Need_
 
-[<img src=https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/CDN-logo.png width=100>](https://www.uib.no/en/cdn)
+[<img src=https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/CDN-logo.png width=75>](https://www.uib.no/en/cdn)
 
 _Fundamental research in science is being transformed by a practice predominantly associated with the arts: namely hallucinations._
 
