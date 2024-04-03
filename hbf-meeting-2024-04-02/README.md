@@ -21,7 +21,7 @@ Based on the enormous mountain of links collected 2023-2024 in the [gdoc AI Spri
 
 Some references mentioned during the discussion:
 
-- Lisa Messeri & M.J. Crockett: _Artificial intelligence and illusions of understanding in scientific research_. Perspective article in Nature, Vol 627, 7 March 2024 [[link](https://www.nature.com/articles/s41586-024-07146-0)]
+- Lisa Messeri & M.J. Crockett: _Artificial intelligence and illusions of understanding in scientific research_. Perspective article in Nature, Vol 627, 7 March 2024 [[link](https://www.nature.com/articles/s41586-024-07146-0)], and with [[link to preview pdf](https://www.taylorfrancis.com/books/mono/10.1201/b10620/pattern-theory-david-mumford-agn%C3%A8s-desolneux)]
 
 - [David Mumford](https://en.wikipedia.org/wiki/David_Mumford) & Agnès Desolneux: _Pattern Theory - The Stochastic Analysis of Real-World Signals_. A K Peters, Ltd, 2010. <br>
 Pattern theory is a distinctive approach to the analysis of all forms of real-world signals and might complement generative AI approaches. At its core is the design of a large variety of probabilistic models whose samples reproduce the look and feel of the real signals, their patterns, and their variability. Bayesian statistical inference then allows you to apply these models in the analysis of new signals.
