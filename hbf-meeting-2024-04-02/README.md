@@ -17,3 +17,14 @@ Based on the enormous mountain of links collected 2023-2024 in the [gdoc AI Spri
 
 **David Jhave Johnston** is a digital-poet writing in emergent domains: A.I., 3D, VR, and code. Author-programmer of the multimedia human + A.I. writing art-project [_ReRites_](http://glia.ca/rerites) (Anteism Books, 2019), the theoretical-history [_Aesthetic Animism: Digital Poetry's Ontological Implications_](https://mitpress.mit.edu/9780262034517/aesthetic-animism) (MIT Press, 2016), and many online multimedia literary-art explorations at [www.glia.ca](http://www.glia.ca). He is currently employed as an Ai-narrative researcher at the UiB [_Centre for Digital Narrative_](https://www.uib.no/en/cdn) from August 2023-26 on a team investigating _Extending Digital Narrative_. 
 
+-----
+
+Some references mentioned during the discussion:
+
+- Lisa Messeri & M.J. Crockett: _Artificial intelligence and illusions of understanding in scientific research_. Perspective article in Nature, Vol 627, 7 March 2024 [[link](https://www.nature.com/articles/s41586-024-07146-0)]
+
+
+  **Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?"** [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
