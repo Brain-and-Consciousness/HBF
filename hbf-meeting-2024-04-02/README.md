@@ -1,6 +1,6 @@
 ## HBF-meeting-20240402
 
-### David Jhave Johnston: _Hallucinations are (almost) all you Need_
+### David Jhave Johnston: _Hallucinations are (almost) all you Need_  [slides](https://glia.ca/2024/HallucinationsAre%28almost%29Enough-Jhave-April2nd2024.pdf)
 
 [<img src=https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/CDN-logo.png width=75>](https://www.uib.no/en/cdn)
 
