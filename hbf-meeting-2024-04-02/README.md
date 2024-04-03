@@ -25,7 +25,7 @@ Some references mentioned during the discussion:
 
 - Grant Sanderson (3Blu1Brown): _But what is GPT?_ Visual intro to Transformers [[link](https://www.3blue1brown.com/lessons/gpt)]
 
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NVCEcNaoyfkrXCYF/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M?si=NVCEcNaoyfkrXCYF)
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wjZofJX0v4M/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M)
 
 - Prof. Geoffrey Hinton: _Will digital intelligence replace biological intelligence?_ [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
 
