@@ -31,7 +31,7 @@ This book treats the mathematical tools, the models themselves, and the computat
 
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wjZofJX0v4M/sddefault.jpg)](https://youtu.be/wjZofJX0v4M)
 
-- Prof. Geoffrey Hinton: _Will digital intelligence replace biological intelligence?_ [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
+- Prof. [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): _Will digital intelligence replace biological intelligence?_ [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
 
