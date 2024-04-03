@@ -29,4 +29,24 @@ Some references mentioned during the discussion:
 
 - Prof. Geoffrey Hinton: _Will digital intelligence replace biological intelligence?_ [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/sddefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
+
+
+<!--
+
+Originally:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wjZofJX0v4M/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M) 
+
+Smaller version:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wjZofJX0v4M/0.jpg)](https://youtu.be/wjZofJX0v4M) 
+
+Replace /maxresdefault.jpg with any of these resolutions:
+
+0.jpg - Lowest resolution
+1.jpg, 2.jpg, 3.jpg - Progressively higher resolutions
+sddefault.jpg - Standard definition
+hqdefault.jpg - High quality
+mqdefault.jpg - Medium quality
+
+-->
