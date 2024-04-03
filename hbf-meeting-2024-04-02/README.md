@@ -21,11 +21,11 @@ Based on the enormous mountain of links collected 2023-2024 in the [gdoc AI Spri
 
 Some references mentioned during the discussion:
 
-- Lisa Messeri & M.J. Crockett: _Artificial intelligence and illusions of understanding in scientific research_. Perspective article in Nature, Vol 627, 7 March 2024 [[link](https://www.nature.com/articles/s41586-024-07146-0)], and with [[link to preview pdf](https://www.taylorfrancis.com/books/mono/10.1201/b10620/pattern-theory-david-mumford-agn%C3%A8s-desolneux)]
+- Lisa Messeri & M.J. Crockett: _Artificial intelligence and illusions of understanding in scientific research_. Perspective article in Nature, Vol 627, 7 March 2024 [[link](https://www.nature.com/articles/s41586-024-07146-0)]
 
 - [David Mumford](https://en.wikipedia.org/wiki/David_Mumford) & Agnès Desolneux: _Pattern Theory - The Stochastic Analysis of Real-World Signals_. A K Peters, Ltd, 2010. <br>
 Pattern theory is a distinctive approach to the analysis of all forms of real-world signals and might complement generative AI approaches. At its core is the design of a large variety of probabilistic models whose samples reproduce the look and feel of the real signals, their patterns, and their variability. Bayesian statistical inference then allows you to apply these models in the analysis of new signals.
-This book treats the mathematical tools, the models themselves, and the computational algorithms for applying statistics to analyze six representative classes of signals of increasing complexity. The book covers patterns in text, sound, and images. Discussions of images include recognizing characters, textures, nature scenes, and human faces. [[link](https://www.dam.brown.edu/ptg/MDbook/index.html)]
+This book treats the mathematical tools, the models themselves, and the computational algorithms for applying statistics to analyze six representative classes of signals of increasing complexity. The book covers patterns in text, sound, and images. Discussions of images include recognizing characters, textures, nature scenes, and human faces. [[link](https://www.dam.brown.edu/ptg/MDbook/index.html)], and with [[link to preview pdf](https://www.taylorfrancis.com/books/mono/10.1201/b10620/pattern-theory-david-mumford-agn%C3%A8s-desolneux)]
   
 - Grant Sanderson (3Blue1Brown): _But what is GPT?_ Visual intro to Transformers [[link](https://www.3blue1brown.com/lessons/gpt)]
 
