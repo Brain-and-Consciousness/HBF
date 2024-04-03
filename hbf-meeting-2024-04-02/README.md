@@ -23,8 +23,10 @@ Some references mentioned during the discussion:
 
 - Lisa Messeri & M.J. Crockett: _Artificial intelligence and illusions of understanding in scientific research_. Perspective article in Nature, Vol 627, 7 March 2024 [[link](https://www.nature.com/articles/s41586-024-07146-0)]
 
+- Grant Sanderson (3Blu1Brown): _But what is GPT?_ Visual intro to Transformers [[link](https://www.3blue1brown.com/lessons/gpt)]
 
-  **Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?"** [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NVCEcNaoyfkrXCYF/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M?si=NVCEcNaoyfkrXCYF)
 
+- Prof. Geoffrey Hinton: _Will digital intelligence replace biological intelligence?_ [Romanes Lecture 2024](https://www.ox.ac.uk/news/2024-02-20-romanes-lecture-godfather-ai-speaks-about-risks-artificial-intelligence) <br>given at the University of Oxford, 19 Feb 2024  [[video](https://youtu.be/N1TEjTeQeg0)] (36:54 min)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N1TEjTeQeg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1TEjTeQeg0)
