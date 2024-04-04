@@ -21,6 +21,8 @@ Based on the enormous mountain of links collected 2023-2024 in the [gdoc AI Spri
 
 Some references mentioned during the discussion:
 
+- [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom): _Deep Utopia: Life and Meaning in a Solved World_. Ideapress, 2024 [[link](https://nickbostrom.com)]
+  
 - Lisa Messeri & M.J. Crockett: _Artificial intelligence and illusions of understanding in scientific research_. Perspective article in Nature, Vol 627, 7 March 2024 [[link](https://www.nature.com/articles/s41586-024-07146-0)]
 
 - [David Mumford](https://en.wikipedia.org/wiki/David_Mumford) & Agnès Desolneux: _Pattern Theory - The Stochastic Analysis of Real-World Signals_. A K Peters, Ltd, 2010. <br>
