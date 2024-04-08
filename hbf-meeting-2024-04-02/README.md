@@ -21,7 +21,7 @@ Based on the enormous mountain of links collected 2023-2024 in the [gdoc AI Spri
 
 Some references mentioned during the discussion:
 
-- [Mustafa Suleyman[(https://en.wikipedia.org/wiki/Mustafa_Suleyman): _The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma_. Crown Publishing Group, 2023.  <br>.... in the book,  Suleyman establishes “the containment problem” — the task of maintaining control over powerful technologies—as the essential challenge of our age [[link](https://www.the-coming-wave.com)]
+- [Mustafa Suleyman(https://en.wikipedia.org/wiki/Mustafa_Suleyman): _The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma_. Crown Publishing Group, 2023.  .... in the book,  Suleyman establishes “the containment problem” — the task of maintaining control over powerful technologies—as the essential challenge of our age [[link](https://www.the-coming-wave.com)]
 
 - [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom): _Deep Utopia: Life and Meaning in a Solved World_. Ideapress, 2024 [[link](https://nickbostrom.com)]
   
