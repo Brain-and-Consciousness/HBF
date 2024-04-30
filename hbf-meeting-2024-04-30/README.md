@@ -1,6 +1,6 @@
 ## HBF-meeting-20240430
 
-### Halvor Næss: _Brain and Creativity_  [[slides]]
+### Halvor Næss: _Brain and Creativity_  [[slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-30/assets/Kreativitet_og_hjernen_hn20240430_ppt.pdf)]
 
 
 
