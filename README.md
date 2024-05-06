@@ -25,6 +25,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2024:**    |     |     |      |        |
+| 2024-05-07 | Bernt Engelsen     | _Epilepsy and consciousness_ | [Link] | [Here](https://tidsskriftet.no/profil/bernt-engelsen) |
 | 2024-04-30 | Halvor Næss     | _Brain and Creativity_ <br>("Creativity provides unpredictable knowledge and is based on selectionist processes restricted by the second law of thermodynamics" ...) | [Link](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-30/assets/Kreativitet_og_hjernen_hn20240430_ppt.pdf) | [Here](https://no.wikipedia.org/wiki/Halvor_N%C3%A6ss_(nevrolog)) and [here](https://scholar.google.no/citations?user=IxinAX4AAAAJ&hl=no)|
 | 2024-04-02 | David Jhave Johnston      | _Hallucinations are (almost) all you Need_  | [Part 1](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/HallucinationsAre(almost)Enough-Jhave-April2nd2024_part1.pdf)<br>[Part 2](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/HallucinationsAre(almost)Enough-Jhave-April2nd2024_part2.pdf)<br>[Part 3](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/HallucinationsAre(almost)Enough-Jhave-April2nd2024_part3.pdf)<br>[Part 4](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/HallucinationsAre(almost)Enough-Jhave-April2nd2024_part4.pdf) | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/README.md) (as [pdf](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-02/assets/HBF-Jhave-abstract-20240402.pdf))<br> See also [here](https://en.wikipedia.org/wiki/David_Jhave_Johnston)  and [glia.ca](https://glia.ca) |
 | 2024-02-13 | Eva Jablonka     | _Embodied AI (Robots) and Consciousness_  | [Link] | [Here](https://en.wikipedia.org/wiki/Eva_Jablonka)  and her latest [books](https://www.goodreads.com/author/list/395825.Eva_Jablonka)|
@@ -70,7 +71,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 20240430
+last updated: 20240506
 
 <!--
 
