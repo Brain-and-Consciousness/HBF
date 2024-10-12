@@ -25,6 +25,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2024:**    |     |     |      |        |
+| 2024-10-15 | Aksel Bjørø Pedersen, Bernhard Edvardsen and Salvatore Messina    | _I Hate Myself - How self-esteem provides a lens into the conscious experience_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-10-15/HBF_abstract_pedersen_etal_20241015.pdf) | Based on [this paper](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-10-15/Pedersen_etal_J_Att_Dis_2024.pdf) |
 | 2024-06-20 | Eivind Haga Ronold     | _Intelligence and consciousness from a clinical neuropsychological perspective_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-06-20/HBF_abstract_eivind_20240620.pdf) | [Here](https://scholar.google.no/citations?user=qSzf49AAAAAJ&hl=en) and [here](https://www4.uib.no/en/find-employees/Eivind.Haga.Ronold)|
 | 2024-05-07 | Bernt Engelsen     | _Epilepsy and Consciousness_ | [Link](https://docs.google.com/presentation/d/e/2PACX-1vR_2UuSckdQUuyTzdve0UZ7DDcYfsxPqQ5CYtUyXwP8VwzAR7FXEK06V9KvI5u8OBBdYmM-3tEnARcG/pub?start=false&loop=false&delayms=3000) [pdf](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-05-07/assets/HBF_Consciousness_and_epilepsy_be20240507.pdf) | [Here](https://tidsskriftet.no/profil/bernt-engelsen), [here](https://tidsskriftet.no/2022/06/essay/er-hjernen-alt-vi-har-et-forsvar-empati-og-populaervitenskapelig-nevrolitteratur) and [here](https://www.ark.no/produkt/boker/fagboker/med-skrablikk-pa-hjernen-9788284030647)|
 | 2024-04-30 | Halvor Næss     | _Brain and Creativity_ <br>("Creativity provides unpredictable knowledge and is based on selectionist processes restricted by the second law of thermodynamics" ...) | [Link](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-04-30/assets/Kreativitet_og_hjernen_hn20240430_ppt.pdf) | [Here](https://no.wikipedia.org/wiki/Halvor_N%C3%A6ss_(nevrolog)) and [here](https://scholar.google.no/citations?user=IxinAX4AAAAJ&hl=no)|
@@ -72,7 +73,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 20240619
+last updated: 20241012
 
 <!--
 
