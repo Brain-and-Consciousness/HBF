@@ -1,7 +1,5 @@
 ## HBF-meeting-20250121
 
-**Subject: HBF season opening // Social gathering**
-
 Hello HBF Members,
 
 Godt Nyttår <img src="./assets/nyttaar.png" width="35" style="vertical-align: middle;">

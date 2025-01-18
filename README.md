@@ -25,7 +25,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2025:**    |     |     |      |        |
-| 2025-01-21 | Bjørn Sætrevik    | _TA multilab registered report replication of the cognitive dissonance effectc_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-01-21/HBF_abstract_saetrevik_20250121.pdf) | Google Scholar [link](https://scholar.google.com/citations?user=8q6y7C8AAAAJ&hl=en)
+| 2025-01-21 | Bjørn Sætrevik    | _A multilab registered report replication of the cognitive dissonance effectc_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-01-21/README.md) | Google Scholar [link](https://scholar.google.com/citations?user=8q6y7C8AAAAJ&hl=en)
 | **2024:**    |     |     |      |        |
 | 2024-11-19 | Vebjørn Ekroll   | _Towards more universal design in the art of magic_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-11-19/HBF_abstract_ekroll_20241119.pdf) | Google Scholar [link](https://scholar.google.com/citations?user=6MunmpMAAAAJ&hl=en) |
 | 2024-10-15 | Aksel Bjørø Pedersen, Bernhard Edvardsen and Salvatore Messina    | _I Hate Myself - How self-esteem provides a lens into the conscious experience_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-10-15/HBF_abstract_pedersen_etal_20241015.pdf) | Based on [this paper](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-10-15/Pedersen_etal_J_Att_Dis_2024.pdf) |
