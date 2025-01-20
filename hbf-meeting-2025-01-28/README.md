@@ -1,4 +1,4 @@
-## HBF-meeting-20250121
+## HBF-meeting-20250128
 
 Hello HBF Members,
 
@@ -8,7 +8,7 @@ Here we are, at the start of a new year and a new HBF season, which starts with 
  
 ### Bjørn Sætrevik 
 
-with a surprising talk that will give everyone food for thought and fresh results on a popular topic: cognitive dissonance. We hope to see each other again on Tuesday the 21st @ 15.00 in Borgaskaret (Alrek Helseklynge). Everyone most welcome!
+with a surprising talk that will give everyone food for thought and fresh results on a popular topic: cognitive dissonance. We hope to see each other again on Tuesday the 28th @ 15.00 in Borgaskaret (Alrek Helseklynge). Everyone most welcome!
 
 #### Title: “A multilab registered report replication of the cognitive dissonance effect” [[Paper](https://journals.sagepub.com/doi/full/10.1177/25152459231213375)]*
 
