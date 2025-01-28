@@ -3,7 +3,7 @@
 #### Replication of [`shiny-app.R`](https://willemsleegers.shinyapps.io/essay-topic-pretest) in Python using [Streamlit](https://streamlit.io) (A.L. 2025-01-28)
 
 
-**'explore-data.ipynb' uses: 'prepared-data.csv' and [essay-topics.csv](./essay-topics.csv), the 'streamlit library', the [app.py](.(/app.py) file,<br> 
+**'explore-data.ipynb' uses: 'prepared-data.csv' and [essay-topics.csv](./essay-topics.csv), the 'streamlit library', the [app.py](./app.py) file,<br> 
 and the `hbf`conda environment**
 
 Creating the `hbf`conda environment:
