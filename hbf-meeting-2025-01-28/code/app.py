@@ -1,5 +1,6 @@
 # Analysis (HBF-meeting-20250128)
 
+# Import libraries
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -7,8 +8,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-# Run (from /Users/arvid/GitHub/Brain-and-Consciousness/HBF/MyNotebooks/hbf-meeting-2025-01-28/code)
-#  with: conda activate bmed365-2025
+# Run the streamlit app:
 #  streamlit run app.py
 
 # Set page config
