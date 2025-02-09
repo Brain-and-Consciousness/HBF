@@ -3,7 +3,7 @@
 Dear everyone,
 
  
-We will follow up on Bjørn’s excellent talk with his PhD student Floris Hendrikus Johannes van den Oever presenting on his forthcoming defense of his thesis.
+We will follow up on Bjørn’s excellent talk with his PhD student Floris Hendrikus Johannes van den Oever presenting on his forthcoming thesis defense.
 
 
 The talk will be in Munin, where we were last time (Underetasjen Alrek). It will be from 15.-16.00 on 11.2.
