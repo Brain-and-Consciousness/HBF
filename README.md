@@ -25,7 +25,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2025:**    |     |     |      |        |
-| 2025-02-11 | Floris Hendrikus Johannes van den Oever    | _Augmented Reality for maritime collaboration_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-02-11/README.md)<br>|
+| 2025-02-11 | Floris Hendrikus Johannes van den Oever    | _Augmented Reality for maritime collaboration_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-02-11/README.md)<br>| (The talk will be in Munin)
 | 2025-01-28 | Bjørn Sætrevik    | _A multilab registered report replication of the cognitive dissonance effectc_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-01-28/README.md)<br>[Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-01-28/assets/Registered_report_replication_of_cognitive_dissonance.pdf)| Google Scholar [link](https://scholar.google.com/citations?user=8q6y7C8AAAAJ&hl=en)
 | **2024:**    |     |     |      |        |
 | 2024-11-19 | Vebjørn Ekroll   | _Towards more universal design in the art of magic_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2024-11-19/HBF_abstract_ekroll_20241119.pdf) | Google Scholar [link](https://scholar.google.com/citations?user=6MunmpMAAAAJ&hl=en) |
