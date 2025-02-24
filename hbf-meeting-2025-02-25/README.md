@@ -4,8 +4,8 @@ Dear everyone,
 
 we are happy to announce our talk next Tuesday 25.2 15.00 @ Alrek Borgaskaret with Professor Jarl Giske (see below). 
 
-Jarle’s Talks are always interesting and though provoking, and from the description this will be no exception! <br>
-See also his recent paper: Giske, Dumitru et al. Premises for digital twins reporting on Atlantic salmon wellbeing. Behavioural Processes 226 (2025) 105163 [[link](./Giske_Dumitru_etal_Premises_for_digital_twins_reporting_on_Atlantic_salmon_wellbeing_Behav_Processes_2025.pdf)]
+Jarle’s Talks are always interesting and though provoking$^*$, and from the description this will be no exception! <br>
+*) See also the recent paper: Giske, Dumitru et al. Premises for digital twins reporting on Atlantic salmon wellbeing. Behavioural Processes 226 (2025) 105163 [[link](./Giske_Dumitru_etal_Premises_for_digital_twins_reporting_on_Atlantic_salmon_wellbeing_Behav_Processes_2025.pdf)]
 
 All are welcome – hope to see you there!
  
