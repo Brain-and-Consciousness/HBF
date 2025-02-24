@@ -2,7 +2,7 @@
 
 Dear everyone, 
 
-we are happy to announce our talk next Tuesday 25.2 14.00 @ Alrek Borgaskaret with Professor Jarl Giske (see below). 
+we are happy to announce our talk next Tuesday 25.2 15.00 @ Alrek Borgaskaret with Professor Jarl Giske (see below). 
 
 Jarle’s Talks are always interesting and though provoking, and from the description this will be no exception! 
 
