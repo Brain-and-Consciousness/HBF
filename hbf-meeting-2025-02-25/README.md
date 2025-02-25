@@ -5,7 +5,7 @@ Dear everyone,
 we are happy to announce our talk next Tuesday 25.2 15.00 @ Alrek Borgaskaret with Professor Jarl Giske (see below). 
 
 Jarle’s Talks are always interesting and thought-provoking*, and from the description this will be no exception! <br>
-*) See also the recent paper: Giske, Dumitru, et al. Premises for digital twins reporting on Atlantic salmon wellbeing. Behavioural Processes 226 (2025) 105163 [[link](./Giske_Dumitru_etal_Premises_for_digital_twins_reporting_on_Atlantic_salmon_wellbeing_Behav_Processes_2025.pdf)] and the GitHub repo https://github.com/arvidl/salmon-digital-twins by _Arvid Lundervold, 2025-02-25_ (with [Claude](https://www.anthropic.com/claude?utm_source=chatgpt.com) 3.7 Sonnet and [Cursor](https://www.cursor.com) IDE --  end-to-end in 5 hours!)
+*) See also the recent paper: Giske, Dumitru, et al. _Premises for digital twins reporting on Atlantic salmon wellbeing_. Behavioural Processes 226 (2025) 105163 [[link](./Giske_Dumitru_etal_Premises_for_digital_twins_reporting_on_Atlantic_salmon_wellbeing_Behav_Processes_2025.pdf)] and the GitHub repo https://github.com/arvidl/salmon-digital-twins by _Arvid Lundervold, 2025-02-25_ (with [Claude](https://www.anthropic.com/claude?utm_source=chatgpt.com) 3.7 Sonnet and [Cursor](https://www.cursor.com) IDE --  end-to-end in 5 hours!)
 
 All are welcome – hope to see you there!
  
