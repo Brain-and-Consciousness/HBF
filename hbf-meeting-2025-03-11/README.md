@@ -7,7 +7,7 @@ Sergey’s work on the ancient origins of individual differences, such as person
 ### Sergey Budaev 
 
 
-#### Title: “Exploration of consciousness from a comparative perspective" (tentative)  [[slides]()]<br>
+#### Title: “On the evolution of the rational soul" [[slides]()]<br>
 **Abstract:** Are animals rational? What does rationality entail? Can we determine if
 an animal lacking communication language are indeed rational? How could
 rationality have evolved through the Darwinian natural selection? Is
