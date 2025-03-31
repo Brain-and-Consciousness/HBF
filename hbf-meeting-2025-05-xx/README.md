@@ -4,7 +4,7 @@
 
 
 
-### Arvid Lundervold
+### [[Paul Hamilton](https://www4.uib.no/en/find-employees/Paul.Hamilton)]
 
 
-#### Title (tentative): “Emotion: Valence & Arousal (multi-stable dynamical systems), Cognition: Attention & Reasoning (multi-modal LLMs), and Consciousness" [[slides]()]<br>
+#### Title: (TBA) [[slides]()]<br>
