@@ -7,4 +7,4 @@
 ### Arvid Lundervold
 
 
-#### Title (tentative): “Emotion: Valence & Arousal (multi-stable dynamical systems), Cognition: Attention & Reasoning (multi-modal LLMs) and Consciousness" [[slides]()]<br>
+#### Title (tentative): “Emotion: Valence & Arousal (multi-stable dynamical systems), Cognition: Attention & Reasoning (multi-modal LLMs), and Consciousness" [[slides]()]<br>
