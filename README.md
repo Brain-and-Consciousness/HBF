@@ -26,7 +26,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 |----------|-----------|---------|--------|-----------|
 | **2025:**    |     |     |      |        |
 | [2025-05-yy] | [Arvid Lundervold]    | [_Emotion: Valence & Arousal (multi-stable dynamical systems), Cognition: Attention & Reasoning (multi-modal LLMs), and Consciousness_] | [[Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-05-yy/README.md)]<br>| TBD
-| 2025-05-06 | Paul Hamilton    | Examining brain-body relations in the metabolic domain using holistic versus analytic approaches | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-05-06/README.md)<br>[slides](https://docs.google.com/presentation/d/e/2PACX-1vSAotFgXgkL6jmw5b-BeI2SFfv-5HUKgPuqmikw2P6S54bqyn1n4Z0GSuPbDiFlU8wkWabV_-1tIACd/pub?start=false&loop=false&delayms=3000)| 
+| 2025-05-06 | Paul Hamilton    | Examining brain-body relations in the metabolic domain using holistic versus analytic approaches | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-05-06/README.md)<br>[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSAotFgXgkL6jmw5b-BeI2SFfv-5HUKgPuqmikw2P6S54bqyn1n4Z0GSuPbDiFlU8wkWabV_-1tIACd/pub?start=false&loop=false&delayms=3000)| 
 | 2025-04-22 | Helene Hjelmervik    | _White noise hallucinations and the protective effects of estrogen for psychotic symptoms_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-04-22/README.md)<br>| 
 | 2025-03-11 | Sergey Budaev    | _On the evolution of the rational soul_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-03-11/README.md)<br> Slides: [[pptx]()]| (The talk will be at **15.00** @ Alrek Borgaskaret) <br> Google Scholar [link](https://scholar.google.com/citations?user=RxvZR7UAAAAJ&hl=en) <br> GitHub [[link](https://github.com/sbudaev?tab=repositories)]<br> git.app.uib.no [[link](https://git.app.uib.no/users/Sergey.Budaev/projects)] <br> See also [[https://ahamodel.uib.no](https://ahamodel.uib.no)] 
 | 2025-02-25 | Jarl Giske     | _Agency: On genes and organisms in evolution_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-02-25/README.md)<br> Slides: [[pptx](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-02-25/Agency_talk_HBF_Giske_20250225.pptx)] [[pdf](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-02-25/Agency_talk_HBF_Giske_20250225.pdf)]| (The talk will be at **15.00** @ Alrek Borgaskaret) <br> Google Scholar [link](https://scholar.google.com/citations?user=nqtv_GEAAAAJ&hl=en)
@@ -82,7 +82,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 20250501
+last updated: 20250507
 
 <!--
 
