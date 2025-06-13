@@ -42,7 +42,10 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 
 ## Meetings
 
-**New venue**: The [**Eitri**](https://www.eitri.health) Incubator, located [here](http://maps.google.com/?q=31%20Haukelandsbakken%20Bergen,%20Vestland,%205021%20Norway), close to the BBB building's 8th floor and the  [Ulriken cable car](https://en.visitbergen.com/things-to-do/_ga=2.19682875.2039618291.1749723536-937718574.1749723536). The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November
+**New venue**: The [**Eitri**](https://www.eitri.health) Incubator, located [here](http://maps.google.com/?q=31%20Haukelandsbakken%20Bergen,%20Vestland,%205021%20Norway), 
+close to the BBB building's 8th floor and the  [Ulriken cable car](https://en.visitbergen.com/things-to-do/_ga=2.19682875.2039618291.1749723536-937718574.1749723536). 
+The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November,
+i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12) 
 <!-- , 15:00-16:00 (unless otherwise announced).
 
 Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17 <br> -->
@@ -51,7 +54,7 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2025:**    |     |     |      |        |
-| 2025-08-26 | Bolek Srebro    | Consciousness according to Jeffrey Gray| [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-08-26/README.md)<br> [Slides]()| The talk will be at Eitri incubator (room: TBA)
+| 2025-08-26 | Bolek Srebro    | Consciousness according to Jeffrey Gray| [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-08-26/README.md)<br> [Slides]()| The talk will be at **Eitri incubator** (room: TBA)
 | 2025-06-03 | Arvid Lundervold    | On consciousness, resting state fMRI, and neurodynamics - revisited (with a view to AI) | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-06-03/README.md)<br> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSVHKFI55qFUZsLYAZnY0E50ThEdOQ57vACUeDFicVKX7u_50fXJsCZoNGk0Bhfn7T1D1WZYsp8qLPG/pub?start=false&loop=false&delayms=3000)| The talk will be at Munin (down the stairs at Alrek entrance)
 | 2025-05-06 | Paul Hamilton    | Examining brain-body relations in the metabolic domain using holistic versus analytic approaches | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-05-06/README.md)<br>[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSAotFgXgkL6jmw5b-BeI2SFfv-5HUKgPuqmikw2P6S54bqyn1n4Z0GSuPbDiFlU8wkWabV_-1tIACd/pub?start=false&loop=false&delayms=3000)| 
 | 2025-04-22 | Helene Hjelmervik    | _White noise hallucinations and the protective effects of estrogen for psychotic symptoms_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-04-22/README.md)<br>| 
