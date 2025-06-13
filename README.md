@@ -2,6 +2,27 @@
 
 ![img](./profile/HBFlogo.png)
 
+
+**Exploring the Frontiers of Mind and Machine**
+
+What makes us conscious? How does the brain give rise to our inner experience, and could artificial systems one day share this profound capacity? These fundamental questions drive the **HBF - Brain and Consciousness** initiative at the University of Bergen, where researchers from neuroscience, psychology, computer science, philosophy, and the arts meet to explore one of science's greatest mysteries.
+
+Our multidisciplinary research seminars discuss consciousness across biological and artificial systems, examining everything from neural mechanisms and animal cognition to AI development and philosophical theories of mind. As we stand on the threshold of artificial general intelligence, understanding consciousness becomes not just scientifically fascinating but ethically crucial.
+
+The HBF initiative fosters discovery through monthly seminars, collaborative research projects, and public engagement. We explore how consciousness manifests in humans and animals, investigate the potential for machine consciousness, and grapple with the artistic and ethical dimensions of generative technologies and intelligence itself. Our work spans traditional boundaries—combining rigorous neuroscientific research with philosophical inquiry, technological innovation with artistic expression.
+
+Join us in this intellectual adventure as we tackle questions that have captivated thinkers for centuries, now given new urgency by rapid advances in artificial intelligence. Through open dialogue and interdisciplinary collaboration, we seek to illuminate the nature of consciousness in all its forms.
+
+**Engage with our experiments:**
+- **Test our "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" GPT**: A specialized tool for exploring consciousness in animals and machines 
+- **Experience Artistic Intelligence**: Discover [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
+
+*The quest to understand consciousness is humanity's next great frontier—and you're invited to be part of the journey.*
+
+
+
+
+<!-- Previous ingress:
 Prepare yourself for an insightful exploration into the captivating realm of the brain and consciousness. These fascinating subjects have long occupied the minds of scientists and deep thinkers. With a purposeful stride, we embark on a journey that delves into the intricacies of this profound connection, approaching the topic with a level of formality, befitting its significance.
 
 The **HBF** - Brain and Consciousness initiative at the University of Bergen is a research interest group focused on exploring various aspects of the brain and consciousness. This initiative encompasses a wide range of topics, including neuroscientific research, technological advancements in AI, philosophical theories, animal decision-making, ethical considerations, artistic intelligence, and educational challenges related to understanding consciousness in both biological and artificial systems.
@@ -17,14 +38,20 @@ Given its focus, the HBF initiative at the University of Bergen represents a sig
 
 And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
+-->
+
 ## Meetings
 
-**Location**: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17  (unless otherwise stated)<br>
+**New venue**: The [**Eitri**](https://www.eitri.health) Incubator, located [here](http://maps.google.com/?q=31%20Haukelandsbakken%20Bergen,%20Vestland,%205021%20Norway), close to the BBB building's 8th floor and the  [Ulriken cable car](https://en.visitbergen.com/things-to-do/_ga=2.19682875.2039618291.1749723536-937718574.1749723536). The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November
+<!-- , 15:00-16:00 (unless otherwise announced).
+
+Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17 <br> -->
 **Time**: 15:00 - 16:00 (unless otherwise stated)<br>
 
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2025:**    |     |     |      |        |
+| 2025-08-26 | Bolek Srebro    | Consciousness according to Jeffrey Gray| [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-08-26/README.md)<br> [Slides]()| The talk will be at Eitri incubator (room: TBA)
 | 2025-06-03 | Arvid Lundervold    | On consciousness, resting state fMRI, and neurodynamics - revisited (with a view to AI) | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-06-03/README.md)<br> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSVHKFI55qFUZsLYAZnY0E50ThEdOQ57vACUeDFicVKX7u_50fXJsCZoNGk0Bhfn7T1D1WZYsp8qLPG/pub?start=false&loop=false&delayms=3000)| The talk will be at Munin (down the stairs at Alrek entrance)
 | 2025-05-06 | Paul Hamilton    | Examining brain-body relations in the metabolic domain using holistic versus analytic approaches | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-05-06/README.md)<br>[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSAotFgXgkL6jmw5b-BeI2SFfv-5HUKgPuqmikw2P6S54bqyn1n4Z0GSuPbDiFlU8wkWabV_-1tIACd/pub?start=false&loop=false&delayms=3000)| 
 | 2025-04-22 | Helene Hjelmervik    | _White noise hallucinations and the protective effects of estrogen for psychotic symptoms_ | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-04-22/README.md)<br>| 
@@ -82,7 +109,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 20250507
+last updated: 20250612
 
 <!--
 
