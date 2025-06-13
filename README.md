@@ -45,7 +45,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 **New venue**: The [**Eitri**](https://www.eitri.health) Incubator, located [here](http://maps.google.com/?q=31%20Haukelandsbakken%20Bergen,%20Vestland,%205021%20Norway), 
 close to the BBB building's 8th floor and the  [Ulriken cable car](https://en.visitbergen.com/things-to-do/_ga=2.19682875.2039618291.1749723536-937718574.1749723536). 
 The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November,
-i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12) 
+i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12); 2026: 27/1, 24/2, 31/3, 28/4, 26/5, 23/6
 <!-- , 15:00-16:00 (unless otherwise announced).
 
 Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17 <br> -->
