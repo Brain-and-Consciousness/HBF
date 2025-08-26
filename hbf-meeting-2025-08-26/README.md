@@ -25,3 +25,18 @@ The talk by Bolek will take place at a **new venue for the HBF seminar series**:
 
 **A review of the book:**<br>
 "The late Professor Emeritus Jeffrey Gray is one to be remembered well. He is known for many things, including being of the most highly cited experimental psychologists in the UK to generating theories of human consciousness... This book is the culmination of Gray's long-standing quest for understanding the essential properties of consciousness... Gray's book is well worth the read. His coverage of models that address the hard problem of consciousness is reasonably complete. Gray is highly skilled at thoroughly critiquing each model (always finding both strengths and weaknesses). He gives the same constructive criticism to each model, in exactly the same measure he gives his own. His style is entirely fair-minded and refreshing... This is an excellent book that comes at the conclusion of the life of an outstanding member of academia. It is a timeless addition to any library for this reason alone." _-Science and Consciousness Review_
+
+
+**Short description (from [[OUP](https://global.oup.com/academic/product/consciousness-9780198520917)]):**<br>
+
+How does conscious experience arise out of the functioning of the human brain? How is it related to the behaviour that it accompanies? How does the perceived world relate to the real world? Between them, these three questions constitute what is commonly known as the Hard Problem of consciousness. Despite vast knowledge of the relationship between brain and behaviour, and rapid advances in our knowledge of how brain activity correlates with conscious experience, the answers to all three questions remain controversial, even mysterious. This important book analyses these core issues and reviews the evidence from both introspection and experiment. To many its conclusions will be surprising and even unsettling:
+
+- The entire perceived world is constructed by the brain. The relationship between the world we perceive and the underlying physical reality is not as close as we might think
+
+- Much of our behaviour is accomplished with little or no participation from conscious experience.
+
+- Our conscious experience of our behaviour lags the behaviour itself by around a fifth of a second - we become aware of what we do only after we have done it.
+
+- The lag in conscious experience applies also to the decision to act - we only become aware of our decisions after they have been formed.
+
+- The self is as much a creation of the brain as is the rest of the perceived world.
