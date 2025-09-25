@@ -20,9 +20,8 @@ Join us in this intellectual adventure as we tackle questions that have captivat
 *The quest to understand consciousness is humanity's next great frontier—and you're invited to be part of the journey.*
 
 
-**Brief history of HBF (University of Bergen's research interest group on brain and consciousness):**
-
-The cross-disciplinary, open HBF forum was initiated in late 2021 by Dr. Magdalena-Lucia Dumitru (previously at [BIO](https://www4.uib.no/en/find-employees/Magda.L.Dumitru), UiB) and Dr. Eivind Haga Ronold ([IBMP](https://www4.uib.no/en/find-employees/Eivind.Haga.Ronold), UiB). Announcements of monthly/bi-monthly HBF meetings, agenda, papers, opinions, and comments were posted on [Padlet](https://padlet.com/magdadumitru/hbf-brain-and-consciousness-427b4m9by7e00tpl) up to February 2022. Thereafter, the meeting calendar and abstracts are hosted on [GitHub](https://github.com/Brain-and-Consciousness/HBF) by Dr. Arvid Lundervold. The HBF forum is open to everyone interested in brain, consciousness, and AI ...
+**Brief history of HBF (University of Bergen's research interest group on brain and consciousness):**<br>
+The cross-disciplinary, open HBF forum was initiated in late 2021 by Dr. Magdalena-Lucia Dumitru (previously at [BIO](https://www4.uib.no/en/find-employees/Magda.L.Dumitru), UiB) and Dr. Eivind Haga Ronold ([IBMP](https://www4.uib.no/en/find-employees/Eivind.Haga.Ronold), UiB). Announcements of monthly/bi-monthly HBF meetings, agenda, papers, opinions, and comments were posted on [Padlet](https://padlet.com/magdadumitru/hbf-brain-and-consciousness-427b4m9by7e00tpl) up to February 2022. Thereafter, the HBF communication is hosted on [GitHub](https://github.com/Brain-and-Consciousness/HBF) by Dr. Arvid Lundervold. The HBF forum is open to everyone interested in brain, consciousness, and AI ...
 
 
 <!-- Previous ingress:
