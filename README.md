@@ -56,7 +56,7 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2025:**    |     |     |      |        |
-| 2025-30-09 |  Bolek Srebro  | Consciousness according to Jeffrey Gray (part II)  | [Abstract]()<br> [Slides]()| The talk will be at **Eitri incubator** (room: Golgi 1)
+| 2025-30-09 |  Bolek Srebro  | Consciousness according to Jeffrey Gray (part II)  | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-09-30/README.md)<br> [Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-09-30/Bolek_Srebro_Consciousness_according_to_Jeffery_Gray_Part_II_HBF_20250930.pdf)| The talk will be at **Eitri incubator** (room: Golgi 1)
 | 2025-08-26 | Bolek Srebro    | Consciousness according to Jeffrey Gray| [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-08-26/README.md)<br> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSIJslGnxuIuQjucdnPY2olFvriqsB_yUV3Rlo-1y5D5Kdw2_Ffwu8cxBbbxNRjuCekBsn8jk08lcSf/pub?start=false&loop=false&delayms=3000)| The talk will be at **Eitri incubator** (room: Golgi 1)
 | 2025-06-03 | Arvid Lundervold    | On consciousness, resting state fMRI, and neurodynamics - revisited (with a view to AI) | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-06-03/README.md)<br> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSVHKFI55qFUZsLYAZnY0E50ThEdOQ57vACUeDFicVKX7u_50fXJsCZoNGk0Bhfn7T1D1WZYsp8qLPG/pub?start=false&loop=false&delayms=3000)| The talk will be at Munin (down the stairs at Alrek entrance)
 | 2025-05-06 | Paul Hamilton    | Examining brain-body relations in the metabolic domain using holistic versus analytic approaches | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-05-06/README.md)<br>[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSAotFgXgkL6jmw5b-BeI2SFfv-5HUKgPuqmikw2P6S54bqyn1n4Z0GSuPbDiFlU8wkWabV_-1tIACd/pub?start=false&loop=false&delayms=3000)| 
@@ -115,7 +115,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 20250612
+last updated: 20250925
 
 <!--
 
