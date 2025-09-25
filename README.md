@@ -17,12 +17,12 @@ Join us in this intellectual adventure as we tackle questions that have captivat
 - **Test our "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" GPT**: A specialized tool for exploring consciousness in animals and machines 
 - **Experience Artistic Intelligence**: Discover [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
-*The quest to understand consciousness is humanity's next great frontier—and you're invited to be part of the journey.*
 
 
 **Brief history of HBF (University of Bergen's research interest group on brain and consciousness):**<br>
 The cross-disciplinary, open HBF forum was initiated in late 2021 by Dr. Magdalena-Lucia Dumitru (previously at [BIO](https://www4.uib.no/en/find-employees/Magda.L.Dumitru), UiB) and Dr. Eivind Haga Ronold ([IBMP](https://www4.uib.no/en/find-employees/Eivind.Haga.Ronold), UiB). Announcements of monthly/bi-monthly HBF meetings, agenda, papers, opinions, and comments were posted on [Padlet](https://padlet.com/magdadumitru/hbf-brain-and-consciousness-427b4m9by7e00tpl) up to February 2022. Thereafter, the HBF communication is hosted on [GitHub](https://github.com/Brain-and-Consciousness/HBF) by Dr. Arvid Lundervold. The HBF forum is open to everyone interested in brain, consciousness, and AI ...
 
+*The quest to understand consciousness is humanity's next great frontier—and you're invited to be part of the journey.*
 
 <!-- Previous ingress:
 Prepare yourself for an insightful exploration into the captivating realm of the brain and consciousness. These fascinating subjects have long occupied the minds of scientists and deep thinkers. With a purposeful stride, we embark on a journey that delves into the intricacies of this profound connection, approaching the topic with a level of formality, befitting its significance.
