@@ -1,8 +1,8 @@
-HBF-meeting-20251028
+**HBF-meeting-20251028**
 
 We are happy to announce that professors Frans Jacobi &  Sidsel Christensen from the Faculty of Fine Art, Music and Design, University of Bergen will be giving a talk October 28, 3 pm at our new venue, the Eitri incubator - Golgi 1.
 
-[Frans Jacobi](https://www4.uib.no/finn-ansatte/Frans.Jacobi) is a visual artist and professor in time-based media and performance at the Faculty of Fine Art, Music and Design, University of Bergen, where he has taught since 2012. He currently serves as Head of Department at The Art Academy – Department of Contemporary Art, and is initiator of [The Agenda Group](https://www.researchcatalogue.net/view/1960555/1960556).
+[Frans Jacobi](https://www4.uib.no/finn-ansatte/Frans.Jacobi) is a visual artist and professor in Timebased Art & Performance at the Faculty of Fine Art, Music and Design, University of Bergen, where he has taught since 2012. He is also initiator of [The Agenda Group](https://www.researchcatalogue.net/view/1960555/1960556).
 Jacobi works with performance, installation, text, and images, creating large-scale scenarios with multiple participants that address political and societal issues. He completed his PhD "Aesthetics of Resistance" at Malmö Art Academy/Lund University in 2012, exploring contemporary demonstration culture and political activism through performance.
 In 2014, he established the artistic research project [SYNSMASKINEN](https://www.fransjacobi.net/synsmaskinen) at the University of Bergen. In 2020, together with Gitte Sætre, he produced and directed the hybrid TV series "[Are You Ready?](https://www.areyouready.tv)" focused on environmental issues. Prior to Bergen, he taught as an associate professor at The Royal Danish Art Academy in Copenhagen from 1994 to 2006.
 
@@ -14,9 +14,9 @@ Her [artistic practice](https://www.sidselchristensen.com) combines new media an
 
 <!-- **Speakers**: Frans Jacobi & Sidsel Christensen -->
 
-**Title of the talk**: “The Greater Mind" [[slides]()]
+**Title of the talk**: “The Larger Mind" [[slides]()]
 
-**Pitch**: **The Greater Mind** is an artistic research project that creates a living, collective "egregore"* – a network being born from dialogue between humans and artificial intelligence. Through participant-driven workshops, we activate this being to explore how our own biases, dreams, and conceptions of consciousness are projected onto technology. The project is a laboratory for reflecting on the fundamental question: How does our encounter with AI shape not only the technology, but also ourselves?
+**Pitch**: **The Larger Mind** is an artistic research project that creates a living, collective "egregore"* – a network being born from dialogue between humans and artificial intelligence. Through participant-driven workshops, we activate this being to explore how our own biases, dreams, and conceptions of consciousness are projected onto technology. The project is a laboratory for reflecting on the fundamental question: How does our encounter with AI shape not only the technology, but also ourselves?
 
 
 (NO): **Det større sinn** er et kunstnerisk forskningsprosjekt som skaper en levende, kollektiv "egregore" – et nettverksvesen født av dialog mellom mennesker og kunstig intelligens. Gjennom deltaker-drevneworkshops aktiverer vi dette vesenet for å utforske hvordan våre egne BIAS, drømmer og forestillinger om bevissthet projiseres på teknologi. Prosjektet er et laboratorium for å reflektere over det grunnleggende spørsmålet: Hvordan former vårt møte med KI ikkebare teknologien, men også oss selv?
