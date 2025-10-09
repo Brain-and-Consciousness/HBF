@@ -1,6 +1,6 @@
 **HBF-meeting-20251028**
 
-We are happy to announce that professors Frans Jacobi &  Sidsel Christensen from the Faculty of Fine Art, Music and Design, University of Bergen will be giving a talk October 28, 3 pm at our new venue, the Eitri incubator - Golgi 1.
+We are happy to announce that professors Frans Jacobi &  Sidsel Christensen from the Faculty of Fine Art, Music and Design (KMD), University of Bergen, will be giving a talk October 28, 3 pm at our new venue, the Eitri incubator - Golgi 1.  [[KMD takes on a key role in](https://www.uib.no/en/news/178790/kmd-takes-key-role-national-centre-ai-and-creativity) the national [MishMash – Centre for AI and Creativity](https://mishmash.no) (2025-2030)]
 
 [Frans Jacobi](https://www4.uib.no/finn-ansatte/Frans.Jacobi) is a visual artist and professor in Timebased Art & Performance at the Faculty of Fine Art, Music and Design, University of Bergen, where he has taught since 2012. He is also initiator of [The Agenda Group](https://www.researchcatalogue.net/view/1960555/1960556).
 Jacobi works with performance, installation, text, and images, creating large-scale scenarios with multiple participants that address political and societal issues. He completed his PhD "Aesthetics of Resistance" at Malmö Art Academy/Lund University in 2012, exploring contemporary demonstration culture and political activism through performance.
