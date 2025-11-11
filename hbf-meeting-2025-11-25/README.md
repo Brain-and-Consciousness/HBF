@@ -20,3 +20,7 @@ Prof. Hugdahl is one of Norway's most distinguished and prolific psychologists a
 Open to everyone!
 
 The HBF team
+
+-------
+
+For previous talks and presenters see: https://github.com/Brain-and-Consciousness/HBF
