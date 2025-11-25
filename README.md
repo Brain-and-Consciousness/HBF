@@ -56,6 +56,7 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2025:**    |     |     |      |        |
+| (2025-12-16)   |  TBD   |     |      |        |
 | 2025-11-25   | Kenneth Hugdahl    | Consciousness as «das ding-an-sich” or The super-hard problem of consciousness   |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-11-25/README.md)<br>[Slides]()     |   The talk will be at **Eitri incubator** (room: Golgi 1)     |
 | 2025-10-28   | Frans Jacobi & Sidsel Christensen   |  The Larger Mind      |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-10-28/README.md)<br>[Slides]()    | The talk will be at **Eitri incubator** (room: Golgi 1 / Nucleus)       |
 | 2025-30-09 |  Bolek Srebro  | Consciousness according to Jeffrey Gray (part II)  | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-09-30/README.md)<br> [Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-09-30/Bolek_Srebro_Consciousness_according_to_Jeffery_Gray_Part_II_HBF_20250930.pdf)| The talk will be at **Eitri incubator** (room: Golgi 1)
