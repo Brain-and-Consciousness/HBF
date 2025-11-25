@@ -46,7 +46,7 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 
 **New venue**: The [**Eitri**](https://www.eitri.health) Incubator, located [here](http://maps.google.com/?q=31%20Haukelandsbakken%20Bergen,%20Vestland,%205021%20Norway), 
 close to the BBB building's 8th floor and the  [Ulriken cable car](https://en.visitbergen.com/things-to-do/_ga=2.19682875.2039618291.1749723536-937718574.1749723536). 
-The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November,
+The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November.
 i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12); 2026: 27/1, 24/2, 31/3, 28/4, 26/5, 23/6
 <!-- , 15:00-16:00 (unless otherwise announced).
 
@@ -55,7 +55,7 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
-| **2025:**    |     |     |      |        |
+| **2025:**    |     |  <!-- Representation, Attention, Memory, and Thinking in Large Language Models -->   |      |        |
 | (2025-12-16)   |  TBD   |     |      |        |
 | 2025-11-25   | Kenneth Hugdahl    | Consciousness as «das ding-an-sich” or The super-hard problem of consciousness   |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-11-25/README.md)<br>[Slides]()     |   The talk will be at **Eitri incubator** (room: Golgi 1)     |
 | 2025-10-28   | Frans Jacobi & Sidsel Christensen   |  The Larger Mind      |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-10-28/README.md)<br>[Slides]()    | The talk will be at **Eitri incubator** (room: Golgi 1 / Nucleus)       |
