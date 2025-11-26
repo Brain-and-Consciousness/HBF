@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 MyNotebooks/
 
+# Admin files with sensitive data (email list, drafts)
+adm/
