@@ -9,7 +9,7 @@ Prof. Hugdahl is one of Norway's most distinguished and prolific psychologists a
 ### Kenneth Hugdahl
 
 
-#### Title: “Consciousness as «das ding-an-sich” or The super-hard problem of consciousness" [[slides (download)](HBF_Hugdahl_20251125.pptx)]<br>
+#### Title: “Consciousness as «das ding-an-sich” or The super-hard problem of consciousness" [[slides](HBF_Hugdahl_20251125.pptx) (download pptx]<br>
 **Teaser:** 
 
 <img src="HBF-20251125-Hugdahl-slide1.png" width="800" alt="HBF-20251125 Hugdahl Slide 1">
