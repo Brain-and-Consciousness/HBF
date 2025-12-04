@@ -55,8 +55,9 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
-| **2025:**    |     |  <!-- Representation, Attention, Memory, and Thinking in Large Language Models -->   |      |        |
-| (2025-12-16)   |  TBD   |     |      |        |
+| **2026:**    |     |    |      |        |
+| 2026-01-27   |  TBD   |  <!-- Representation, Attention, Memory, and Thinking in Large Language Models -->    |      |        |
+| **2025:**    |     |    |      |        |
 | 2025-11-25   | Kenneth Hugdahl    | Consciousness as «das ding-an-sich” or The super-hard problem of consciousness   |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-11-25/README.md)<br>[Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-11-25/HBF_Hugdahl_20251125.pptx) (download)     |   The talk will be at **Eitri incubator** (room: Golgi 1)     |
 | 2025-10-28   | Frans Jacobi & Sidsel Christensen   |  The Larger Mind      |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-10-28/README.md)<br>[Slides]()    | The talk will be at **Eitri incubator** (room: Golgi 1 / Nucleus)       |
 | 2025-30-09 |  Bolek Srebro  | Consciousness according to Jeffrey Gray (part II)  | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-09-30/README.md)<br> [Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-09-30/Bolek_Srebro_Consciousness_according_to_Jeffery_Gray_Part_II_HBF_20250930.pdf)| The talk will be at **Eitri incubator** (room: Golgi 1)
@@ -118,7 +119,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 2025-11-11
+last updated: 2025-12-04
 
 <!--
 
