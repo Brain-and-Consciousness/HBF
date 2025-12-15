@@ -56,7 +56,7 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2026:**    |     |    |      |        |
-| 2026-01-27   |  TBD   |  <!-- Representation, Attention, Memory, and Thinking in Large Language Models -->    |      |        |
+| 2026-01-27   |  TBD   |  <!-- Representation, Attention, Memory, and Thinking in Large Language Models -->    |      |  **Test our updated "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" GPT**  (5.2)    |
 | **2025:**    |     |    |      |        |
 | 2025-11-25   | Kenneth Hugdahl    | Consciousness as «das ding-an-sich” or The super-hard problem of consciousness   |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-11-25/README.md)<br>[Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-11-25/HBF_Hugdahl_20251125.pptx) (download)     |   The talk will be at **Eitri incubator** (room: Golgi 1)     |
 | 2025-10-28   | Frans Jacobi & Sidsel Christensen   |  The Larger Mind      |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2025-10-28/README.md)<br>[Slides]()    | The talk will be at **Eitri incubator** (room: Golgi 1 / Nucleus)       |
