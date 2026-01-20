@@ -8,7 +8,7 @@ We are pleased to announce that Professor em. [Arvid Lundervold](https://www4.ui
 ### Arvid Lundervold
 
 
-#### Title: "AI vs HI" - Representation, Attention, Memory, and Thinking in Man and Machine [[Slides]()]
+#### Title: "AI vs HI" - Representation, Attention, Memory, and Thinking in Man and Machine [[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSJu7wR-ZEbMDTYdMpAQrgEZ4ReZanOJVBGdN86HwT-4GRSOxnRv8qPx6Cp7v3wAFJCOfRERNirZTVP/pub?start=false&loop=false&delayms=3000)]
 
 
 Open to everyone!
