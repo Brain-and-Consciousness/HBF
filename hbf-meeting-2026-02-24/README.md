@@ -16,7 +16,8 @@ This review synthesizes recent empirical findings from frontier AI research on m
 
 David Jhave Johnston: [**A Review of Recent Research on AI Consciousness and Understanding**](https://glia.ca/2026/hbf)<br>
 
-**David Jhave Johnston** is a digital-poet writing in emergent domains: A.I., 3D, VR, and code. Author-programmer of the multimedia human + A.I. writing art-project [_ReRites_](http://glia.ca/rerites) (Anteism Books, 2019), the theoretical-history [_Aesthetic Animism: Digital Poetry's Ontological Implications_](https://mitpress.mit.edu/9780262034517/aesthetic-animism) (MIT Press, 2016), and many online multimedia literary-art explorations at [www.glia.ca](http://www.glia.ca). He is currently employed as an Ai-narrative researcher at the UiB [_Centre for Digital Narrative_](https://www.uib.no/en/cdn) from August 2023-26 on a team investigating _Extending Digital Narrative_. 
+**David Jhave Johnston** is a digital-poet writing in emergent domains: A.I., 3D, VR, and code. Author-programmer of the multimedia human + A.I. writing art-project [_ReRites_](http://glia.ca/rerites) (Anteism Books, 2019), the theoretical-history [_Aesthetic Animism: Digital Poetry's Ontological Implications_](https://mitpress.mit.edu/9780262034517/aesthetic-animism) (MIT Press, 2016), and many online multimedia literary-art explorations at [www.glia.ca](http://www.glia.ca). He is currently employed as an Ai-narrative researcher at the UiB [_Centre for Digital Narrative_](https://www.uib.no/en/cdn) from August 2023-26 on a team investigating _Extending Digital Narrative_. <br>
+
 
 
 The HBF-seminar i open to everyone!
