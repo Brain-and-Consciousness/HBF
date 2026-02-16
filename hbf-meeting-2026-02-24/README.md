@@ -21,7 +21,7 @@ David Jhave Johnston: [**A Review of Recent Research on AI Consciousness and Und
 
 
 
-The HBF-seminar i open to everyone!
+The HBF-seminar is open to everyone!
 
 The HBF team
 
