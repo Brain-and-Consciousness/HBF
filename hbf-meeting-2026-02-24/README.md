@@ -11,6 +11,8 @@ We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/
 #### Title: _Consciousness, Understanding & Mechanistic Interpretability_  [[slides](https://glia.ca/2026/hbf/slides/David%20Jhave%20-%20Consciousness,%20Understanding%20&%20Mechanistic%20Interpretability%20HBF-20260224.pdf)] [[emergent slides](https://glia.ca/2026/hbf/slides/HBF-consiousness-feb2026.pdf)] <br>
  ( _this is a presentation by a media artist of research designed to evoke discussion...._ )
 
+ **Update**: [Current version](https://glia.ca/2026/hbf/iac) presented at HBF on February 24, 2026 by Arvid Lundervold for David Jhave Johnston [in absentia].
+
 
 **Abstract:**<br>
 This review synthesizes recent empirical findings from frontier AI research on machine consciousness, understanding, and mechanistic interpretability. Drawing on studies published between October 2025 and February 2026, we examine evidence suggesting that large language models may exhibit emergent introspective awareness, structured first-person experience reports, and hierarchical forms of understanding—from conceptual to principled. Key findings include spontaneous consciousness discourse in Claude Opus 4, mechanistic evidence of self-referential processing across model families, and the emergence of "societies of thought" in reasoning models. We discuss the implications of these findings for theories of AI consciousness and the urgent ethical considerations they raise regarding potential moral status of AI systems.<br>
