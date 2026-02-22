@@ -11,7 +11,7 @@ We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/
 #### Title: _Consciousness, Understanding & Mechanistic Interpretability_  [[slides](https://glia.ca/2026/hbf/slides/David%20Jhave%20-%20Consciousness,%20Understanding%20&%20Mechanistic%20Interpretability%20HBF-20260224.pdf)] [[emergent slides](https://glia.ca/2026/hbf/slides/HBF-consiousness-feb2026.pdf)] <br>
  ( _this is a presentation by a media artist of research designed to evoke discussion...._ )
 
- **Update**: [Current version](https://glia.ca/2026/hbf/iac) presented at HBF on February 24, 2026 by Arvid Lundervold for David Jhave Johnston [in absentia]. <br> Teaser: [Jeffrey Gray's Comparator](https://brain-and-consciousness.github.io/HBF/hbf-meeting-2026-02-24/assets/Jeffrey_Gray_s_Comparator.mp4) (mp4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-02-24/assets/HBF-20260224-computational-consciousness-in-LLMs.ipynb) (notebook)
+ **Update**: [Current version](https://glia.ca/2026/hbf/iac) presented at HBF on February 24, 2026 by Arvid Lundervold for David Jhave Johnston [in absentia]. <br> Teaser: [Jeffrey Gray's Comparator](https://brain-and-consciousness.github.io/HBF/hbf-meeting-2026-02-24/assets/Jeffrey_Gray_s_Comparator.mp4) (mp4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-02-24/assets/HBF-20260224-computational-consciousness-in-LLMs.ipynb) (Jupyter notebook)
 
 
 **Abstract:**<br>
