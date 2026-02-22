@@ -13,7 +13,7 @@ We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/
 
  **Update**: [Current version](https://glia.ca/2026/hbf/iac) presented at HBF on February 24, 2026 by Arvid Lundervold for David Jhave Johnston [in absentia]. <br> Teaser: Jeffrey Gray's Comparator
 
-https://github.com/Brain-and-Consciousness/HBF/raw/main/hbf-meeting-2026-02-24/assets/Jeffrey_Gray_s_Comparator.mp4
+<video src="assets/Jeffrey_Gray_s_Comparator.mp4" controls width="600"></video>
 
 
 **Abstract:**<br>
