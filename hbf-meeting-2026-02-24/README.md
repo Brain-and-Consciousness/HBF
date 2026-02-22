@@ -11,7 +11,7 @@ We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/
 #### Title: _Consciousness, Understanding & Mechanistic Interpretability_  [[slides](https://glia.ca/2026/hbf/slides/David%20Jhave%20-%20Consciousness,%20Understanding%20&%20Mechanistic%20Interpretability%20HBF-20260224.pdf)] [[emergent slides](https://glia.ca/2026/hbf/slides/HBF-consiousness-feb2026.pdf)] <br>
  ( _this is a presentation by a media artist of research designed to evoke discussion...._ )
 
- **Update**: [Current version](https://glia.ca/2026/hbf/iac) presented at HBF on February 24, 2026 by Arvid Lundervold for David Jhave Johnston [in absentia]. Teaser: [Jeffrey Gray's Comparator](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-02-24/assets/Jeffrey_Gray_s_Comparator.mp4)
+ **Update**: [Current version](https://glia.ca/2026/hbf/iac) presented at HBF on February 24, 2026 by Arvid Lundervold for David Jhave Johnston [in absentia]. <br> Teaser: [Jeffrey Gray's Comparator](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-02-24/assets/Jeffrey_Gray_s_Comparator.mp4)
 
 
 **Abstract:**<br>
