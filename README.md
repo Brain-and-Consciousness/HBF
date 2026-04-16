@@ -47,14 +47,12 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 **New venue**: The [**Eitri**](https://www.eitri.health) Incubator, located [here](http://maps.google.com/?q=31%20Haukelandsbakken%20Bergen,%20Vestland,%205021%20Norway), 
 close to the BBB building's 8th floor and the  [Ulriken cable car](https://en.visitbergen.com/things-to-do/_ga=2.19682875.2039618291.1749723536-937718574.1749723536). 
 The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November.
-i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12); 2026: 27/1, 24/2, 31/3, 28/4, 26/5, 23/6
+i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12); 2026: 27/1, 24/2, 31/3, 21/4, 26/5, 23/6
 <!-- , 15:00-16:00 (unless otherwise announced).
 
 Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17 <br> -->
 
 
-<!-- Criminal responsibility and punishment apply to humans who can be blamed for their wrongful behavior. The criminal law’s concept of the responsible agent is rooted in philosophical ideas about humans’ capacity for voluntary and conscious action. Without some form of conscious bodily control, there can be no criminal act. And without the capacity to consciously understand and control one’s actions, one should not be held responsible. So called legal automatism therefore provides an excuse from responsibility the world over. In Norway, a defendant who had “severely impaired consciousness” at the time of the offence can be acquitted for otherwise criminalised actions. It is acknowledged that severely impaired consciousness, and automatism, can be the result of many different conditions such as epilepsy, diabetes, and brain injuries.
-While the ideas about the conscious responsible agent are foundational to modern criminal law, they raise conceptual as well as practical challenges. This lecture will outline discuss the practical role of consciousness in criminal law, focusing on consciousness impairments as limitations for criminal responsibility and agency. -->
 
 
 **Time**: 15:00 - 16:00 (unless otherwise stated)<br>
@@ -127,7 +125,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 2026-04-14
+last updated: 2026-04-16
 
 <!--
 
