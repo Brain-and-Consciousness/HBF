@@ -8,7 +8,7 @@ Linda Gröning leads the [Centre on Criminal Justice and Agency](https://www4.ui
 
 
 
-#### Title: Consciousness, Criminal Responsibility, and the Limitations of Agency [[Slides]()]
+#### Title: Consciousness, Criminal Responsibility, and the Limitations of Agency [[Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-04-21/HBF_Linda_Consciousness_Lecture_20260421.pdf)]
 
 #### Abstract:
 Criminal responsibility and punishment apply to humans who can be blamed for their wrongful behavior. The criminal law’s concept of the responsible agent is rooted in philosophical ideas about humans’ capacity for voluntary and conscious action. Without some form of conscious bodily control, there can be no criminal act. And without the capacity to consciously understand and control one’s actions, one should not be held responsible. So called legal automatism therefore provides an excuse from responsibility the world over. In Norway, a defendant who had “severely impaired consciousness” at the time of the offence can be acquitted for otherwise criminalised actions. It is acknowledged that severely impaired consciousness, and automatism, can be the result of many different conditions such as epilepsy, diabetes, and brain injuries.
