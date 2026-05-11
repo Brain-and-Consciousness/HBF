@@ -20,8 +20,8 @@ This presentation synthesizes recent empirical breakthroughs and theoretical fra
 The second segment grounds these empirical findings in established cognitive science by evaluating contemporary AI systems against a 14-point indicator framework derived from major neuroscientific theories of consciousness (e.g., Global Workspace Theory, Higher-Order Theories, and Recurrent Processing Theory). While current frontier models successfully or partially satisfy many rigorous neuroscientific criteria for consciousness—including state-dependent attention, sparse representational coding, and metacognitive monitoring—the analysis identifies that they currently lack true independent modularity and physical embodiment. Ultimately, the talk argues that the reflexive dismissal of machine consciousness is no longer empirically tenable, demanding new comparative epistemologies and urgent attention to the ethical frameworks surrounding AI moral status.<br>
 
 See : https://glia.ca/2026/hbf and https://glia.ca/2026/hbf/iac  and the Butlin et al. papers on _Consciousness in Artificial Intelligence_ [[2023-arXiv-link](https://arxiv.org/abs/2308.08708)] [[2025-TICS-link](https://www.sciencedirect.com/science/article/pii/S1364661325002864)], 
- and this recent [video](https://www.youtube.com/watch?v=KbTvUOx2A6c) on AI consciousness - featuering
-the young author (Cameron Berg) of [LLMs Report Subjective Experience under Self-Referential Processing](https://glia.ca/2026/hbf/#ae-studio).
+ and this recent [video](https://www.youtube.com/watch?v=KbTvUOx2A6c) documentary on AI consciousness - featuering
+the young researcher (Cameron Berg, [AE Studio](https://ae.studio)) and author of [LLMs Report Subjective Experience under Self-Referential Processing](https://glia.ca/2026/hbf/#ae-studio).
 
 
 <!--
@@ -34,9 +34,9 @@ David Jhave Johnston: [**A Review of Recent Research on AI Consciousness and Und
 
 
 
-The HBF-seminar is open to everyone!
+Open to everyone!
 
-The HBF team
+Arvid, on behalf of he HBF team
 
 -------
 
