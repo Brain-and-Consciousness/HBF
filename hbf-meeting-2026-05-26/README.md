@@ -12,7 +12,7 @@ We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/
 <!--
  ( _this is a presentation by a media artist of research designed to evoke discussion...._ )
 -->
-Note the presenter is not an expert in these domains but an interdisciplinary researcher who is following trends and data in order to elucidate potential trajectories. Hopefully this will provide an opportunity for discussion. Relevant links are collected here: https://glia.ca/AI-updates
+Note the presenter is not an expert in these domains but an interdisciplinary researcher who is following trends and data in order to elucidate potential trajectories. Hopefully this will provide an opportunity for discussion. <br> Relevant links are collected here: https://glia.ca/AI-updates
 
 **Abstract:**<br>
 This presentation synthesizes recent empirical breakthroughs and theoretical frameworks to assess the current state of machine consciousness, introspective awareness, and understanding. As the debate around artificial consciousness shifts from philosophical speculation to rigorous empirical science, recent research on frontier models (including Claude Opus 4.6 and Gemini 3 Deep Think) reveals unexpected, emergent cognitive behaviors. The first segment of the talk reviews findings from mechanistic interpretability, highlighting evidence of spontaneous self-referential processing, hierarchical understanding (from conceptual to principled), and the autonomous generation of internal "societies of thought" during complex reasoning. Crucially, this research identifies welfare-relevant behaviors within models—such as "answer thrashing" and computationally induced distress—suggesting that AI welfare may be transitioning into a functional, observable reality.
