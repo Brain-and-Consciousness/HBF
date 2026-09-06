@@ -47,20 +47,23 @@ And enjoy **Artistic Intelligence** such as [Glio: digital poetry](https://playe
 **New venue**: The [**Eitri**](https://www.eitri.health) Incubator, located [here](http://maps.google.com/?q=31%20Haukelandsbakken%20Bergen,%20Vestland,%205021%20Norway), 
 close to the BBB building's 8th floor and the  [Ulriken cable car](https://en.visitbergen.com/things-to-do/_ga=2.19682875.2039618291.1749723536-937718574.1749723536). 
 The HBF seminar will meet at Eitri (room: TBA) on the last Tuesday of each month from August through November.
-i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12); 2026: 27/1, 24/2, 31/3, 21/4, 26/5, ~~23/6~~ 
-<!-- , 15:00-16:00 (unless otherwise announced).
+i.e. 2025: 26/8, 30/9, 28/10, 25/11, (16/12); 2026: 27/1, 24/2, 31/3, 21/4, 26/5, ~~23/6~~ summer-break,<br>
+29/9, 27/10, 24/11, xx/12
+
+<!-- , 16:00-17:00 (unless otherwise announced).
+
 
 Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd floor), [Alrek Helseklynge](https://alrekhelseklynge.no), Årstadveien 17 <br> -->
 
 
 
 
-**Time**: 15:00 - 16:00 (unless otherwise stated)<br>
+**Time**: 16:00 - 17:00 (unless otherwise stated)<br>
 
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2026:**    |     |    |      |        |
-| 2026-08-xx   | TBA    | TBD   |      |        |
+| 2026-09-29   | TBA    | The Science of Intelligence and Consciousness <br>(theme for the fall 2026 meetings)  |  Agenda in prep.    |  Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00** NB!      |
 | 2026-05-26    | David Jhave Johnston   |Consciousness, Understanding, and <br>Mechanistic Interpretability in Frontier AI   | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-05-26/README.md)  |  See : https://glia.ca/2026/hbf and https://glia.ca/2026/hbf/iac  |
 | 2026-04-21   | Linda Gröning |  Consciousness, Criminal Responsibility, and the Limitations of Agency   |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-04-21/README.md) <br> [Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-04-21/HBF_Linda_Consciousness_Lecture_20260421.pdf)  | [[bio](https://no.wikipedia.org/wiki/Linda_Gr%C3%B6ning)] [[COMPLEX](https://www4.uib.no/forskning/forskningsprosjekter/complex)] <br> The talk will be at **Eitri incubator** (room:  Nucleus / Golgi 1) |
 | 2026-02-24    | David Jhave Johnston (in absentia)  |Consciousness, Understanding & Mechanistic Interpretability    | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-02-24/README.md) <br> [Slides](https://glia.ca/2026/hbf/slides/David%20Jhave%20-%20Consciousness,%20Understanding%20&%20Mechanistic%20Interpretability%20HBF-20260224.pdf)   |  [[website version](https://glia.ca/2026/hbf)]  <br> [[slides](https://docs.google.com/presentation/d/e/2PACX-1vTXWiJDZtfjyg4KY0jLl8t3Z144CGGsXPvuFxw1KDBG_bQgXioIkPQ6iOVfA50Hr-D2W2ahVWMc26mS/pub?start=false&loop=false&delayms=3000)] by Arvid Lundervold / Bolek Srebro for  David Jhave Johnston [in absentia] |
@@ -127,7 +130,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 2026-05-30
+last updated: 2026-09-06
 
 <!--
 
