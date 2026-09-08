@@ -63,7 +63,7 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
 | **2026:**    |     |    |      |        |
-| 2026-09-29   | Planning in plenum <br> (intro by Arvid and Jhave)  | The Science of Intelligence and Consciousness /<br>  AI and Creativity<br>(themes for the fall 2026 meetings) |   Agenda    |  Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00** NB!      |
+| 2026-09-29   | Planning in plenum <br> (intro by Arvid and Jhave)  | The Science of Intelligence and Consciousness /<br>  AI and Creativity<br>(proposed themes for the fall 2026 meetings) |   [Agenda](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-09-29/README.md)    |  Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00** NB!      |
 | 2026-05-26    | David Jhave Johnston   |Consciousness, Understanding, and <br>Mechanistic Interpretability in Frontier AI   | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-05-26/README.md)  |  See : https://glia.ca/2026/hbf and https://glia.ca/2026/hbf/iac  |
 | 2026-04-21   | Linda Gröning |  Consciousness, Criminal Responsibility, and the Limitations of Agency   |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-04-21/README.md) <br> [Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-04-21/HBF_Linda_Consciousness_Lecture_20260421.pdf)  | [[bio](https://no.wikipedia.org/wiki/Linda_Gr%C3%B6ning)] [[COMPLEX](https://www4.uib.no/forskning/forskningsprosjekter/complex)] <br> The talk will be at **Eitri incubator** (room:  Nucleus / Golgi 1) |
 | 2026-02-24    | David Jhave Johnston (in absentia)  |Consciousness, Understanding & Mechanistic Interpretability    | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-02-24/README.md) <br> [Slides](https://glia.ca/2026/hbf/slides/David%20Jhave%20-%20Consciousness,%20Understanding%20&%20Mechanistic%20Interpretability%20HBF-20260224.pdf)   |  [[website version](https://glia.ca/2026/hbf)]  <br> [[slides](https://docs.google.com/presentation/d/e/2PACX-1vTXWiJDZtfjyg4KY0jLl8t3Z144CGGsXPvuFxw1KDBG_bQgXioIkPQ6iOVfA50Hr-D2W2ahVWMc26mS/pub?start=false&loop=false&delayms=3000)] by Arvid Lundervold / Bolek Srebro for  David Jhave Johnston [in absentia] |
@@ -130,7 +130,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 2026-09-06
+last updated: 2026-09-08
 
 <!--
 
