@@ -14,7 +14,7 @@ We are pleased to announce the first autumn meeting of the HBF seminar series.
 - **The Science of Intelligence and Consciousness** — along the lines of the UC Berkeley autumn seminar of the same name ([redwood.berkeley.edu/courses/neu-290](https://redwood.berkeley.edu/courses/neu-290))<br>
 
 > On **29/9**, Arvid will introduce by presenting a recent paper by<br>
-Miller, Brincat, and Roy: *Analog Cognition and Consciousness*,<br> J Neurosci 2026;46(33): e0711262026 (preprint at [PsyArXiv](https://osf.io/preprints/psyarxiv/z48x7_v1))
+Miller, Brincat, and Roy: *Analog Cognition and Consciousness*,<br> J Neurosci 2026;46(33): e0711262026 (preprint at [PsyArXiv](https://osf.io/preprints/psyarxiv/z48x7_v1)) <br> [[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTPxkTkGg5c3IHRLUdMBJZf-9v7jfPixOn5hOzqrSTiO1uzqJjoabtHcKG5mPultgqEJVtuZtYQR_u6/pub?start=false&loop=false&delayms=3000)]
 - **AI and Creativity** — see the note from David Jhave Johnston below
 
 ### A note from David Jhave Johnston
