@@ -62,7 +62,9 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
-| **2026:**    |     |    |      |        |
+| **2026:**    |      |           |        |          |
+| 2026-11-24   | TBA  | TBA     |   [[Slides]()] | Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00**  |
+| 2026-10-27   | TBA  | TBA     |   [[Slides]()] | Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00**  |
 | 2026-09-29   | Planning in plenum <br> (intro by Arvid)  | The Science of Intelligence and Consciousness /<br>  AI and Creativity<br>(proposed themes for the fall 2026 meetings) |   [Agenda](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-09-29/README.md) <br> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTPxkTkGg5c3IHRLUdMBJZf-9v7jfPixOn5hOzqrSTiO1uzqJjoabtHcKG5mPultgqEJVtuZtYQR_u6/pub?start=false&loop=false&delayms=3000) (Analog cognition and consciousness)  |  Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00** NB!      |
 | 2026-05-26    | David Jhave Johnston   |Consciousness, Understanding, and <br>Mechanistic Interpretability in Frontier AI   | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-05-26/README.md)  |  See : https://glia.ca/2026/hbf and https://glia.ca/2026/hbf/iac  |
 | 2026-04-21   | Linda Gröning |  Consciousness, Criminal Responsibility, and the Limitations of Agency   |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-04-21/README.md) <br> [Slides](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-04-21/HBF_Linda_Consciousness_Lecture_20260421.pdf)  | [[bio](https://no.wikipedia.org/wiki/Linda_Gr%C3%B6ning)] [[COMPLEX](https://www4.uib.no/forskning/forskningsprosjekter/complex)] <br> The talk will be at **Eitri incubator** (room:  Nucleus / Golgi 1) |
