@@ -17,7 +17,7 @@ Join us in this intellectual adventure as we tackle questions that have captivat
 - **Test our "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" GPT**: A specialized tool for exploring consciousness in animals and machines 
 - **Experience Artistic Intelligence**: Discover [Glio: digital poetry](https://player.vimeo.com/video/878118010?h=28f185442d) by [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) and [Time-based Art](https://www.fransjacobi.net) by [Frans Jacobi](https://www.uib.no/en/persons/Frans.Jacobi)
 
-See also the [[Landscape of Consciousness](https://loc.closertotruth.com)]
+See also the [[Landscape of Consciousness](https://loc.closertotruth.com)] and [[From cacophony to hierarchy: a principled framework for assessing AI consciousness](https://arxiv.org/html/2609.35618v2) / https://ai-cognition.org/cacophony-tool]
 
 **Brief history of HBF (University of Bergen's research interest group on brain and consciousness):**<br>
 The cross-disciplinary, open HBF forum was initiated in late 2021 by Dr. Magdalena-Lucia Dumitru (previously at [BIO](https://www4.uib.no/en/find-employees/Magda.L.Dumitru), UiB) and Dr. Eivind Haga Ronold ([IBMP](https://www4.uib.no/en/find-employees/Eivind.Haga.Ronold), UiB). Announcements of monthly/bi-monthly HBF meetings, agenda, papers, opinions, and comments were posted on [Padlet](https://padlet.com/magdadumitru/hbf-brain-and-consciousness-427b4m9by7e00tpl) up to February 2022. Thereafter, the HBF communication is hosted on [GitHub](https://github.com/Brain-and-Consciousness/HBF) by Dr. Arvid Lundervold. The HBF forum is open to everyone interested in brain, consciousness, and AI ...
@@ -62,8 +62,8 @@ Previously: [Borgaskaret](https://rom.app.uib.no/romInfo/q.php/401/3F15) (3rd fl
 
 | Meeting  | Presenter | Title   | Slides | More Info |
 |----------|-----------|---------|--------|-----------|
-| **2026:**    |      |           |        |          |
-| 2026-11-24   | TBA  | TBA     |   [[Slides]()] | Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00**  |
+| **2026:**    |   |           |        |          |
+| 2026-11-24   | Magnus Bendixen Englund   | Why do we disagree about consciousness, and does it matter? The psychological origins and consequences of disagreement about consciousness    |  [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-11-24/README.md) <br> [[Slides]()] | Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00**  |
 | 2026-10-27   | TBA  | TBA     |   [[Slides]()] | Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00**  |
 | 2026-09-29   | Planning in plenum <br> (intro by Arvid)  | The Science of Intelligence and Consciousness /<br>  AI and Creativity<br>(proposed themes for the fall 2026 meetings) |   [Agenda](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-09-29/README.md) <br> [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTPxkTkGg5c3IHRLUdMBJZf-9v7jfPixOn5hOzqrSTiO1uzqJjoabtHcKG5mPultgqEJVtuZtYQR_u6/pub?start=false&loop=false&delayms=3000) (Analog cognition and consciousness)  |  Eitri incubator <br> (Nucleus / Golgi 1)<br> **16:00-17:00** NB!      |
 | 2026-05-26    | David Jhave Johnston   |Consciousness, Understanding, and <br>Mechanistic Interpretability in Frontier AI   | [Abstract](https://github.com/Brain-and-Consciousness/HBF/blob/main/hbf-meeting-2026-05-26/README.md)  |  See : https://glia.ca/2026/hbf and https://glia.ca/2026/hbf/iac  |
@@ -132,7 +132,7 @@ In this spirit, let us march forward, equipped with the tools of scientific inqu
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-last updated: 2026-10-01
+last updated: 2026-10-04
 
 <!--
 
