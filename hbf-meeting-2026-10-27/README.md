@@ -14,13 +14,13 @@ We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/
 #### Title: "**Steps to an Ego-logy of Mind**" [[Slides]()]
 
 #### Abstract:
-'Steps to an Ego-logy of Mind' — a performance-lecture with generative audio-visuals, exploring AI consciousness and the virtuality of reality: a semi-autobiographical pseudo-theoretical highly-speculative exploration, that suggests that art, music and videos may be valid benchmarks for Al consciousness. Then we'll discuss together three Anthropic papers, a DeepMind paper, and Damasio's new book more rigorously. I'll bring excerpts from each as slides:
-Persona Selection Model https://www.anthropic.com/research/persona-selection-model (February 23, 2026)
-Emotion concepts and their function in a large language model https://www.anthropic.com/research/emotion-concepts-function (
-Apr 2, 2026)
-A global workspace in language models https://www.anthropic.com/research/global-workspace (Jul 6, 2026)
-and an External commentary on Verbalizable Representations Form a Global Workspace
-Artificial symbiotic intelligence: Agents, AGI and the orchestration of many minds https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/ (DeepMind, Sept 24 2026)
+'Steps to an Ego-logy of Mind' — a performance-lecture with generative audio-visuals, exploring AI consciousness and the virtuality of reality: a semi-autobiographical pseudo-theoretical highly-speculative exploration, that suggests that art, music and videos may be valid benchmarks for Al consciousness. Then we'll discuss together three Anthropic papers, a DeepMind paper, and Damasio's new book more rigorously. I'll bring excerpts from each as slides: 
+
+Persona Selection Model https://www.anthropic.com/research/persona-selection-model (February 23, 2026)<br>
+Emotion concepts and their function in a large language model https://www.anthropic.com/research/emotion-concepts-function (Apr 2, 2026)<br>
+A global workspace in language models https://www.anthropic.com/research/global-workspace (Jul 6, 2026)<br>
+and an External commentary on Verbalizable Representations Form a Global Workspace<br>
+Artificial symbiotic intelligence: Agents, AGI and the orchestration of many minds https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/ (DeepMind, Sept 24 2026)<br>
 and Natural Intelligence & the Logic of Consciousness (Sept 2026) by Antonio Damasio
 
 Open to everyone!
