@@ -3,7 +3,8 @@
 
 Dear everyone,
 
-We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) from the Department of Linguistic, Literary and Aesthetic Studies, UiB will be giving a talk on October 27, 4:00 pm, at our usual venue: Nucleus/Golgi 1, Eitri incubator.
+We are pleased to announce that [David Jhave Johnston](https://en.wikipedia.org/wiki/David_Jhave_Johnston) from the Department of Linguistic, Literary and Aesthetic Studies, UiB will be giving a talk on October 27, 4:00 pm, at our usual venue: Nucleus/Golgi 1, Eitri incubator.<br>
+Budhaditya Chattopadhyay ([MishMash](https://mishmash.no/people/budhaditya-chattopadhyay/), WP2 leader) and Frans Jacobi will also attend, to explore possible co-hosting of future [MishMash](https://mishmash.no) community discussions on the arts, neuroscience, and AI consciousness.
 
 ### David Jhave Johnston
 
