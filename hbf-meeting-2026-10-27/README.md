@@ -12,7 +12,7 @@ Budhaditya Chattopadhyay ([MishMash](https://mishmash.no/people/budhaditya-chatt
 
 
 
-#### Title: "**Steps to an Ego-logy of Mind**" [[Slides]()]
+#### Title: "**Steps to an Ego-logy of Mind**" [[Presentation](https://glia.ca/2026/hbf-egology)]
 
 #### Abstract:
 'Steps to an Ego-logy of Mind' — a performance-lecture with generative audio-visuals, exploring AI consciousness and the virtuality of reality: a semi-autobiographical pseudo-theoretical highly-speculative exploration, that suggests that art, music and videos may be valid benchmarks for Al consciousness. Then we'll discuss together three Anthropic papers, a DeepMind paper, and Damasio's new book more rigorously. I'll bring excerpts from each as slides: 
