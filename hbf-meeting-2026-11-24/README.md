@@ -1,7 +1,7 @@
 ## HBF-meeting-20261124
 
 
-We are pleased to announce that our November HBF seminar speaker, [**Magnus Bendixen Englund**](https://www4.uib.no/en/find-employees/magnus-bendixen.englund) from the Faculty of Psychology at the University of Bergen, will be giving a talk on November 26, 4:00 pm, at our usual venue: Golgi 1, Eitri incubator.
+We are pleased to announce that our November HBF seminar speaker, [**Magnus Bendixen Englund**](https://www4.uib.no/en/find-employees/magnus-bendixen.englund) from the Faculty of Psychology at the University of Bergen, will be giving a talk on November 24, 4:00 pm, at our usual venue: Golgi 1, Eitri incubator.
 
 
 The talk will present an empirical extension of the theoretical work that Magnus Bendixen Englund [[GS](https://scholar.google.com/citations?user=IKL-gkoAAAAJ&hl=en)] and Prof. [Mark Price](https://www4.uib.no/en/find-employees/mark-c.price) have been doing in recent years. It is an attempt to test the psychological mechanisms we postulate, along with some other interesting psychological variables. We will collect the data through questionnaires and similar methods. The tentative title we have for the PhD application is the title of my presentation.
